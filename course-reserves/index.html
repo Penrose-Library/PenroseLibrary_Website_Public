@@ -403,16 +403,14 @@ $(document).ready(function(e) {
 								$('#tbd-course').append(output);
 								}
    							 });
-<pre><code>$(&quot;#primoQueryTemp&quot;).change(function(){
-        $(&quot;#primoQuery&quot;).val(&quot;any,contains,&quot; + $(&quot;#primoQueryTemp&quot;).val());
-})
-$('#search-button').click(function(){
-	$('#simple').submit();
+	$("#primoQueryTemp").change(function(){
+			$("#primoQuery").val("any,contains," + $("#primoQueryTemp").val());
+	})
+	$('#search-button').click(function(){
+		$('#simple').submit();
+	});
 });
-</code></pre>
-<p>});
-</script></p>
-
+</script>
     </main>
   </div>
 </div>
