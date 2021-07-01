@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://penrose.whitman.edu/course-reserves/</loc>
+    <lastmod>2021-07-01T11:45:59-07:00</lastmod>
+  </url><url>
+    <loc>https://penrose.whitman.edu/pages/</loc>
+    <lastmod>2021-07-01T11:45:59-07:00</lastmod>
+  </url><url>
     <loc>https://penrose.whitman.edu/guides/</loc>
     <lastmod>2021-06-29T16:43:01-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/guides2/</loc>
     <lastmod>2021-06-29T17:04:45-07:00</lastmod>
-  </url><url>
-    <loc>https://penrose.whitman.edu/pages/</loc>
-    <lastmod>2021-07-01T11:28:04-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/a_z_list/</loc>
     <lastmod>2021-06-28T14:46:10-07:00</lastmod>
@@ -48,7 +51,7 @@
     <lastmod>2021-06-01T12:44:09-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/research_services/</loc>
-    <lastmod>2021-05-26T10:48:22-07:00</lastmod>
+    <lastmod>2021-07-01T11:45:59-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/instruction/</loc>
     <lastmod>2021-05-26T10:48:22-07:00</lastmod>

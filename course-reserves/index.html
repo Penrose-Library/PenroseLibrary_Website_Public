@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta NAME="robots" CONTENT="noindex,nofollow">
   <meta name="generator" content="Hugo 0.84.2" />
-  <link rel="canonical" href="/blog/multiple-expandable-test/">
+  <link rel="canonical" href="/course-reserves/">
 
   
 
@@ -39,7 +39,7 @@
 
   
   
-  <title>Multiple Expandable Test | Penrose Library, Whitman College, Walla Walla, WA</title>
+  <title>Course Reserves | Penrose Library, Whitman College, Walla Walla, WA</title>
 </head>
 
   <body>
@@ -264,7 +264,7 @@
       
       
 
-      <a href="/course-reserves" >
+      <a href="/course-reserves" aria-current="page">
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use xlink:href="#bookmark"></use>
         </svg>
@@ -316,7 +316,7 @@
       
       
 
-      <a href="/post/" aria-current="page">
+      <a href="/post/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use xlink:href="#bookmark"></use>
         </svg>
@@ -331,129 +331,89 @@
 </header>
 
           
-
 <div class="main-and-footer">
+  <div class="main">
+        <div class="page-title">
+          <h1>Course Reserves</h1>
+        </div>
+    
+    
 
-  <div class="main">   
-     <div class="page-title">
-      <h1>Multiple Expandable Test</h1>
-    </div>
-      
-      
-
-
-      
-  <main id="main">
-    <div class="date">
-      
-      
-      <strong>Publish date: </strong>Jun 17, 2020
-      
-      
-      <br>
-      <strong>Last updated: </strong>Apr 30, 2021
-      
-      
-    </div>
 
     
-    <div class="tags">
-      <strong>Tags: </strong>
-      <ul aria-label="">
-        
-        <li>
-          <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
-            <use xlink:href="#tag"></use>
-          </svg>
-          
-          <a href="/tags/issue/">issue</a>
-        </li>
-        
-      </ul>
-    </div>
-    
-    <p>Testing out GitHub issue <a href="https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36">https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36</a> &ndash; Multiple expandable shortcodes do not work if they have the same inner text.</p>
-<div class="expandable-section">
-  
-    <h2>
-  
-    
-    
-    
-    
-    
-    <button aria-expanded="false" data-expands="js-expandable-8e9fc1bddb4cefe5d15c2c01dab547d4">
-      <span class="expandable-label">expandable 1</span>
-      <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
-        <g transform="translate(0 -981.5)">
-          <rect style="stroke-width:0;fill:currentColor" ry="5" height="60" width="9.8985" y="987.36" x="30.051" class="up-strut" />
-          <rect style="stroke-width:0;fill:currentColor" ry="5" height="10" width="60" y="1012.4" x="5"/>
-        </g>
-      </svg>
-    </button>
-  
-    </h2>
-  
-  <div id="js-expandable-8e9fc1bddb4cefe5d15c2c01dab547d4" hidden>
-    Same inner text.
-  </div>
+    <main id="main" class="secondary-main">
+      <form enctype="application/x-www-form-urlencoded; charset=utf-8" action="http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do" target="_self" method="get" name="searchForm" class="formtab1" id="simple"><input type="hidden" value="WHITC" name="institution">
+<input type="hidden" value="WHITC" name="vid">
+<input type="hidden" value="cr_tab" name="tab">
+<input type="hidden" name="search_scope" value="whitc_cr">
+<input type="hidden" value="Basic" name="mode">
+<input type="hidden" value="GUEST" name="group">
+<input type="hidden" value="true" name="onCampus">
+<input type="hidden" value="full" name="displayMode">
+<input type="hidden" name="query" id="primoQuery">
+<input type="hidden" value="true" name="highlight">
+<input type="hidden" value="all" name="displayField">
+<div style="margin-left:auto;margin-right:auto">
+<p>Enter course number, instructor&rsquo;s name, or choose from list below.</p>
+<div class="mdi-action-search black-text icon323"></div>
+<input type="text" placeholder="Search Course Reserves;" value="" id="primoQueryTemp">
+<button class="btn white-text waves-effect waves-light" id="search-button" style="display:inline">Search</button>
 </div>
-
-<div class="expandable-section">
-  
-    <h2>
-  
-    
-    
-    
-    
-    
-    <button aria-expanded="false" data-expands="js-expandable-01bb5482bccda4c55cdddefee914f17d">
-      <span class="expandable-label">expandable 2</span>
-      <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
-        <g transform="translate(0 -981.5)">
-          <rect style="stroke-width:0;fill:currentColor" ry="5" height="60" width="9.8985" y="987.36" x="30.051" class="up-strut" />
-          <rect style="stroke-width:0;fill:currentColor" ry="5" height="10" width="60" y="1012.4" x="5"/>
-        </g>
-      </svg>
-    </button>
-  
-    </h2>
-  
-  <div id="js-expandable-01bb5482bccda4c55cdddefee914f17d" hidden>
-    Same inner text.
-  </div>
+</form>
+<div style="margin-left:auto;margin-right:auto;clear:both">
+<h5>List of Courses</h5>
+<ul id="class" class="collection"></ul>
+<table class="responsive-table">
+<thead>
+<tr>
+<th data-field="id">Course</th>
+<th data-field="name">Instructor</th>
+</tr>
+</thead>
+<tbody id="tbd-course"></tbody>
+</table>
+<div id="loading" style="width:30%;margin-left:auto;margin-right:auto">
+<div class="preloader-wrapper big active">
+<div class="spinner-layer spinner-blue-only">
+<div class="circle-clipper left">
+<div class="circle "></div>
 </div>
-
-<div class="expandable-section">
-  
-    <h2>
-  
-    
-    
-    
-    
-    
-    <button aria-expanded="false" data-expands="js-expandable-7fd25a04c614346f1399de124e0a4c48">
-      <span class="expandable-label">expandable 3</span>
-      <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
-        <g transform="translate(0 -981.5)">
-          <rect style="stroke-width:0;fill:currentColor" ry="5" height="60" width="9.8985" y="987.36" x="30.051" class="up-strut" />
-          <rect style="stroke-width:0;fill:currentColor" ry="5" height="10" width="60" y="1012.4" x="5"/>
-        </g>
-      </svg>
-    </button>
-  
-    </h2>
-  
-  <div id="js-expandable-7fd25a04c614346f1399de124e0a4c48" hidden>
-    Different inner text.
-  </div>
 </div>
+</div>
+</div>
+</div>
+<script>
+$(document).ready(function(e) {
+	$.ajax({
+                            url: 'http://library.whitman.edu/php/coursereserve.php',
+                            type: 'GET',
+                            dataType: 'json'
+ 							}).done(function( msg ) {
+								$('#loading').html('<p></p>');
+								for(var prop in msg){
+								var arr = $.map(msg[prop].instructor, function(el) { return el; });
+								sname=' ';						
+								if(arr.length==1){
+									sname=arr[0].first_name+' '+arr[0].last_name;
+								}
+								if(arr.length>=2){
+									sname=arr[0].first_name+' '+arr[0].last_name+'/'+arr[1].first_name+' '+arr[1].last_name;	
+								}
+								 var output='<tr><td><a href="http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do?institution=WHITC&vid=WHITC_NEW&tab=default_tab&mode=Basic&group=GUEST&onCampus=true&displayMode=full&displayField=all&search_scope=whitc_cr&query=any,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+sname+'</td></tr>';
+								$('#tbd-course').append(output);
+								}
+   							 });
+<pre><code>$(&quot;#primoQueryTemp&quot;).change(function(){
+        $(&quot;#primoQuery&quot;).val(&quot;any,contains,&quot; + $(&quot;#primoQueryTemp&quot;).val());
+})
+$('#search-button').click(function(){
+	$('#simple').submit();
+});
+</code></pre>
+<p>});
+</script></p>
 
-
-  </main>
-
+    </main>
   </div>
 </div>
 

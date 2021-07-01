@@ -6,7 +6,17 @@
     <description>Recent content in Pages on Penrose Library, Whitman College, Walla Walla, WA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Reserves</title>
+      <link>https://penrose.whitman.edu/course-reserves/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://penrose.whitman.edu/course-reserves/</guid>
+      <description>Enter course number, instructor&amp;rsquo;s name, or choose from list below.
+ Search   List of Courses    Course Instructor            $(document).</description>
+    </item>
+    
     <item>
       <title>Library Guides</title>
       <link>https://penrose.whitman.edu/guides/</link>
