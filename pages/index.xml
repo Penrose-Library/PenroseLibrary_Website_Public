@@ -14,7 +14,7 @@
       
       <guid>https://penrose.whitman.edu/course-reserves/</guid>
       <description>Enter course number, instructor&amp;rsquo;s name, or choose from list below.
- Search   List of Courses    Course Instructor            $(document).</description>
+ Search   List of Courses    Course Instructor            $(document).ready(function(e) { $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/coursereserve.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39; }).done(function( msg ) { $(&#39;#loading&#39;).</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/guides/</guid>
-      <description>Subject Guides springshare_widget_config_1625005695222 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=3&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005695222&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005695222&#34;); Course Guides springshare_widget_config_1625005740371 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=2&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005740371&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005740371&#34;); General Guides Copyright &amp;amp; IP @ Whitman This guide is intended to serve as a starting point for research on topics concerning intellectual property rights and responsibilities.</description>
+      <description>Subject Guides springshare_widget_config_1625005695222 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=3&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005695222&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005695222&#34;); Course Guides springshare_widget_config_1625005740371 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=2&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005740371&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005740371&#34;); General Guides Copyright &amp;amp; IP @ Whitman This guide is intended to serve as a starting point for research on topics concerning intellectual property rights and responsibilities. Broadly defined:</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/guides2/</guid>
-      <description>Subject Guides     springshare_widget_config_1625005695222 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=3&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005695222&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005695222&#34;);    Course Guides     springshare_widget_config_1625005740371 = { path: &#39;guides&#39; };!</description>
+      <description>Subject Guides     springshare_widget_config_1625005695222 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=3&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005695222&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005695222&#34;);    Course Guides     springshare_widget_config_1625005740371 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=2&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005740371&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005740371&#34;);    General Guides     Copyright &amp;amp; IP @ Whitman This guide is intended to serve as a starting point for research on topics concerning intellectual property rights and responsibilities.</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@
       <pubDate>Mon, 21 Jun 2021 21:58:53 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/a_z_list/</guid>
-      <description>springshare_widget_config_1622747636763 = { path: &#39;assets&#39; }; Search for database Search     function getParameterByName(name, url = window.location.href) { name = name.replace(/[\[\]]/g, &#39;\\$&amp;&#39;); var regex = new RegExp(&#39;[?</description>
+      <description>springshare_widget_config_1622747636763 = { path: &#39;assets&#39; }; Search for database Search     function getParameterByName(name, url = window.location.href) { name = name.replace(/[\[\]]/g, &#39;\\$&amp;&#39;); var regex = new RegExp(&#39;[?&amp;]&#39; + name + &#39;(=([^&amp;#]*)|&amp;|#|$)&#39;), results = regex.exec(url); if (!results) return null; if (!results[2]) return &#39;&#39;; return decodeURIComponent(results[2].</description>
     </item>
     
     <item>
@@ -50,7 +50,8 @@
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/about_the_library/</guid>
-      <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.</description>
+      <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
+Penrose Library has been consistently highly ranked by the Princeton Review.</description>
     </item>
     
     <item>
@@ -61,7 +62,9 @@
       <guid>https://penrose.whitman.edu/contact_librarian/</guid>
       <description>$(document).ready(function(e){$(&#39;#s-la-askform-submit-21757&#39;).click(function(e){$(&#39;div.preloader-wrapper&#39;).show();$.ajax({url:&#34;https://api2.libanswers.com/1.0/form/submit&#34;,data:$(&#39;#s-la-askform-form_21757&#39;).serialize(),success:function(d){$(&#39;div#result&#39;).html(&#39;&#39;+d.message+&#39;
 &#39;);$(&#39;div.preloader-wrapper&#39;).hide();},type:&#39;POST&#39;,dataType:&#39;json&#39;}).fail(function(){$(&#39;div.preloader-wrapper&#39;).hide();$(&#39;div#result&#39;).html(&#39;Error: Please try again
-&#39;);});});});  &amp;nbsp;&amp;nbsp; Subject  Content  Email (Required)  Name  Submit           Administration Dalia Corkrum, College Librarian — 509-527-5193</description>
+&#39;);});});});  &amp;nbsp;&amp;nbsp; Subject  Content  Email (Required)  Name  Submit           Administration Dalia Corkrum, College Librarian — 509-527-5193
+Kathleen Hutchison, Administrative Assistant — 509-527-5191
+Archives and Special Collections Ben Murphy, Archivist and Special Collections Librarian — 509-526-4731</description>
     </item>
     
     <item>
@@ -89,7 +92,8 @@ Library Instruction As detailed in the Penrose Library Mission and Guiding Princ
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/research_services/</guid>
-      <description>Reading Room Procedures The Reading Room is open to the public from 9am-4pm, Monday through Friday. Appointments are encouraged, but not required. Appointments can be made by emailing archives@whitman.</description>
+      <description>Reading Room Procedures The Reading Room is open to the public from 9am-4pm, Monday through Friday. Appointments are encouraged, but not required. Appointments can be made by emailing archives@whitman.edu or calling 509-527-5922.
+The following guidelines are required for all patrons working in the Reading Room:</description>
     </item>
     
     <item>
@@ -98,7 +102,8 @@ Library Instruction As detailed in the Penrose Library Mission and Guiding Princ
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/instruction/</guid>
-      <description>Class Sessions in the Archives Faculty are encouraged to incorporate materials from the Archives into their teaching. There are multiple, scalable options for curricular use of collections and the Archivists are available to work with you to achieve your pedagogical goals.</description>
+      <description>Class Sessions in the Archives Faculty are encouraged to incorporate materials from the Archives into their teaching. There are multiple, scalable options for curricular use of collections and the Archivists are available to work with you to achieve your pedagogical goals. These include:
+ A single class visit to the archives to orient students to the collections and space A thematic visit to the archives, with selections on a particular topic, subject, or theme An assignment designed around collections that requires out-of-class student visits to the archives An entire class or syllabus built around archival collections  In all these scenarios, our instruction focuses both on enabling students to find and use collections, and developing their skills in analyzing and interpreting primary sources.</description>
     </item>
     
     <item>
@@ -108,7 +113,7 @@ Library Instruction As detailed in the Penrose Library Mission and Guiding Princ
       
       <guid>https://penrose.whitman.edu/journal-finder/</guid>
       <description>Find a Journal by title e-Journal A-Z List
-Contains Exact phrase Begins with  Journal title  Search Omit initial articles such as &#34;the,&#34; &#34;a,&#34; &#34;</description>
+Contains Exact phrase Begins with  Journal title  Search Omit initial articles such as &#34;the,&#34; &#34;a,&#34; &#34;le&#34;...   Find an Article by Title Article title  Search  Find an Article by Citation Article Title:  Journal title  Author Last Name:  Author First Name:  Date (YYYY-MM-DD):  Volume  Issue  Start page  ISSN  PMID  DOI  Search  $(document).</description>
     </item>
     
     <item>
@@ -118,7 +123,7 @@ Contains Exact phrase Begins with  Journal title  Search Omit initial articles s
       
       <guid>https://penrose.whitman.edu/libraryservices/</guid>
       <description>Search Library FAQ   In brief, Top 10 Things for Students to Know about Penrose Library.
-Borrow &amp;amp; Request Penrose Library extends borrowing privileges to all Whitman College students, faculty, and staff members.</description>
+Borrow &amp;amp; Request Penrose Library extends borrowing privileges to all Whitman College students, faculty, and staff members. Although the Library’s primary commitment is to members of the Whitman community, certain library privileges are available to visiting scholars, local high school students, and members of the general public.</description>
     </item>
     
   </channel>
