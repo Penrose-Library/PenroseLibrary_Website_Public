@@ -6,7 +6,20 @@
     <description>Recent content in Pages on Penrose Library, Whitman College, Walla Walla, WA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact a Librarian</title>
+      <link>https://penrose.whitman.edu/contact_librarian/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://penrose.whitman.edu/contact_librarian/</guid>
+      <description>$(document).ready(function(e){$(&#39;#s-la-askform-submit-21757&#39;).click(function(e){$(&#39;div.preloader-wrapper&#39;).show();$.ajax({url:&#34;https://api2.libanswers.com/1.0/form/submit&#34;,data:$(&#39;#s-la-askform-form_21757&#39;).serialize(),success:function(d){$(&#39;div#result&#39;).html(&#39;&#39;+d.message+&#39;
+&#39;);$(&#39;div.preloader-wrapper&#39;).hide();},type:&#39;POST&#39;,dataType:&#39;json&#39;}).fail(function(){$(&#39;div.preloader-wrapper&#39;).hide();$(&#39;div#result&#39;).html(&#39;Error: Please try again
+&#39;);});});});  &amp;nbsp;&amp;nbsp; Subject  Content  Email (Required)  Name  Submit           Administration Dalia Corkrum, College Librarian — 509-527-5193
+Kathleen Hutchison, Administrative Assistant — 509-527-5191
+Archives and Special Collections Ben Murphy, Archivist and Special Collections Librarian — 509-526-4731</description>
+    </item>
+    
     <item>
       <title>Course Reserves</title>
       <link>https://penrose.whitman.edu/course-reserves/</link>
@@ -52,19 +65,6 @@
       <guid>https://penrose.whitman.edu/about_the_library/</guid>
       <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 Penrose Library has been consistently highly ranked by the Princeton Review.</description>
-    </item>
-    
-    <item>
-      <title>Contact a Librarian</title>
-      <link>https://penrose.whitman.edu/contact_librarian/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://penrose.whitman.edu/contact_librarian/</guid>
-      <description>$(document).ready(function(e){$(&#39;#s-la-askform-submit-21757&#39;).click(function(e){$(&#39;div.preloader-wrapper&#39;).show();$.ajax({url:&#34;https://api2.libanswers.com/1.0/form/submit&#34;,data:$(&#39;#s-la-askform-form_21757&#39;).serialize(),success:function(d){$(&#39;div#result&#39;).html(&#39;&#39;+d.message+&#39;
-&#39;);$(&#39;div.preloader-wrapper&#39;).hide();},type:&#39;POST&#39;,dataType:&#39;json&#39;}).fail(function(){$(&#39;div.preloader-wrapper&#39;).hide();$(&#39;div#result&#39;).html(&#39;Error: Please try again
-&#39;);});});});  &amp;nbsp;&amp;nbsp; Subject  Content  Email (Required)  Name  Submit           Administration Dalia Corkrum, College Librarian — 509-527-5193
-Kathleen Hutchison, Administrative Assistant — 509-527-5191
-Archives and Special Collections Ben Murphy, Archivist and Special Collections Librarian — 509-526-4731</description>
     </item>
     
     <item>
