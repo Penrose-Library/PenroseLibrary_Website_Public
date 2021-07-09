@@ -14,8 +14,7 @@
       
       <guid>https://penrose.whitman.edu/blog/katex-math-typesetting/</guid>
       <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
-Note: Use the online reference of supported TeX functions.
-Some math:</description>
+Note: Use the online reference of supported TeX functions.</description>
     </item>
     
   </channel>
