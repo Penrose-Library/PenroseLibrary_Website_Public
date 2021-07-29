@@ -13,7 +13,7 @@
       <pubDate>Fri, 16 Jul 2021 21:58:53 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/newbook/</guid>
-      <description>#text-book-jacketimg{ height:15rem; } .jacket-title{ padding:0; bottom:auto; position:relative; } .col-4{ margin-top:0.5rem; }   $(function(){ $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/newitem/newbooklist_jsonfeed.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39;, cache:false, }).done(function( bibarray ) { $.</description>
+      <description>#text-book-jacketimg{ height:15rem; } .jacket-title{ padding:0; bottom:auto; position:relative; }   $(function(){ $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/newitem/newbooklist_jsonfeed.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39;, cache:false, }).done(function( bibarray ) { $.each(bibarray, function(key,value) { var display1=&#39;&#39;+ value.</description>
     </item>
     
     <item>
