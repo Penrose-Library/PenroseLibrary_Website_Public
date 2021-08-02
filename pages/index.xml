@@ -28,10 +28,10 @@
     
     <item>
       <title>Course Reserves</title>
-      <link>https://penrose.whitman.edu/course-reserves/</link>
+      <link>https://penrose.whitman.edu/course_reserves/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/course-reserves/</guid>
+      <guid>https://penrose.whitman.edu/course_reserves/</guid>
       <description>Enter course number, instructor&amp;rsquo;s name, or choose from list below.
  Search   List of Courses    Course Instructor            $(document).</description>
     </item>
@@ -98,16 +98,6 @@ Library Instruction As detailed in the Penrose Library Mission and Guiding Princ
       
       <guid>https://penrose.whitman.edu/instruction/</guid>
       <description>Class Sessions in the Archives Faculty are encouraged to incorporate materials from the Archives into their teaching. There are multiple, scalable options for curricular use of collections and the Archivists are available to work with you to achieve your pedagogical goals.</description>
-    </item>
-    
-    <item>
-      <title>Journal Finder</title>
-      <link>https://penrose.whitman.edu/journal-finder/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://penrose.whitman.edu/journal-finder/</guid>
-      <description>Find a Journal by title e-Journal A-Z List
-Contains Exact phrase Begins with  Journal title  Search Omit initial articles such as &#34;the,&#34; &#34;a,&#34; &#34;</description>
     </item>
     
     <item>
