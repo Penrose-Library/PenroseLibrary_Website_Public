@@ -22,9 +22,8 @@
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://penrose.whitman.edu/contact_librarian/</guid>
-      <description>$(document).ready(function(e){$(&#39;#s-la-askform-submit-21757&#39;).click(function(e){$(&#39;div.preloader-wrapper&#39;).show();$.ajax({url:&#34;https://api2.libanswers.com/1.0/form/submit&#34;,data:$(&#39;#s-la-askform-form_21757&#39;).serialize(),success:function(d){$(&#39;div#result&#39;).html(&#39;&#39;+d.message+&#39;
-&#39;);$(&#39;div.preloader-wrapper&#39;).hide();},type:&#39;POST&#39;,dataType:&#39;json&#39;}).fail(function(){$(&#39;div.preloader-wrapper&#39;).hide();$(&#39;div#result&#39;).html(&#39;Error: Please try again
-&#39;);});});});  &amp;nbsp;&amp;nbsp; Subject  Content  Email (Required)  Name  Submit           Administration Dalia Corkrum, College Librarian — 509-527-5193</description>
+      <description>$(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
+&#39;); }, success: function(d) { $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;&#39; + d.</description>
     </item>
     
     <item>
