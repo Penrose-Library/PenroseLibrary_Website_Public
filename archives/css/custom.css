@@ -1,0 +1,121 @@
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+ /*background-color: #fff;*/
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn, .searchquery{
+    margin-top: 1em;
+    font-size: 1rem;
+    border-radius: 0.33em;
+    font-family: inherit;
+    background: #001F5B;
+    color: #fefefe;
+    padding: 0.75rem;
+    border: 0;
+}
+.center{
+  text-align: center;
+}
+.no-up-margin{
+    margin-top: 0;
+}
+#homepage-main-and-footer{
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+  background-image: url('/archives/images/banner.jpg');
+}
+.top-section-main{
+  height: 35vh;
+}
+.second-section-main{
+  background-color: #fff;
+  padding: 1rem 0.5rem 1rem 1rem;
+}
+.splash-title{
+  background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
+  padding: 1rem 2rem;
+  max-width: 40rem;
+  margin: 6rem auto 2rem auto;
+  text-align: center;
+}
+
+
+.nobackground{
+  background: none;
+}
+
+#radioscope{
+  border: none;
+  width:100%;
+}
+#announcement{
+  padding: 2rem;
+  max-width: 40rem;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  min-height: 2rem;
+}
+#announcement:not(:empty){
+  background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
+}
+
+/* just boxes */
+
+.card {
+  position: relative;
+  background-color: #fff;
+  transition: box-shadow .25s;
+  border-radius: 2px;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+  padding:1em;
+  margin: 0 0.5rem 1rem 0;
+  height: 25rem;
+  overflow: hidden;
+}
+.jacket-title{
+  border-radius: 0 0 2px 2px;
+  padding:1rem;
+  width:100%;
+  bottom:0;
+  position:absolute;
+  background:rgba(255,255,255,0.93);
+}
+.jacket-title p{
+    font-size: 11pt;
+    margin-top:0.5rem;
+}
+
+/* Media queries */
+@media screen and (min-width: 80rem) and (max-width: 90rem) {
+  .card {
+    height: 27rem;
+  }
+  .top-section-main {
+        height: 60vh;
+  }
+  .bootstrap-wrapper .col-1, .bootstrap-wrapper .col-2, .bootstrap-wrapper .col-3, .bootstrap-wrapper .col-4, .bootstrap-wrapper .col-5, .bootstrap-wrapper .col-6, .bootstrap-wrapper .col-7, .bootstrap-wrapper .col-8, .bootstrap-wrapper .col-9, .bootstrap-wrapper .col-10, .bootstrap-wrapper .col-11, .bootstrap-wrapper .col-12, .bootstrap-wrapper .col, .bootstrap-wrapper .col-auto, .bootstrap-wrapper .col-sm-1, .bootstrap-wrapper .col-sm-2, .bootstrap-wrapper .col-sm-3, .bootstrap-wrapper .col-sm-4, .bootstrap-wrapper .col-sm-5, .bootstrap-wrapper .col-sm-6, .bootstrap-wrapper .col-sm-7, .bootstrap-wrapper .col-sm-8, .bootstrap-wrapper .col-sm-9, .bootstrap-wrapper .col-sm-10, .bootstrap-wrapper .col-sm-11, .bootstrap-wrapper .col-sm-12, .bootstrap-wrapper .col-sm, .bootstrap-wrapper .col-sm-auto, .bootstrap-wrapper .col-md-1, .bootstrap-wrapper .col-md-2, .bootstrap-wrapper .col-md-3, .bootstrap-wrapper .col-md-4, .bootstrap-wrapper .col-md-5, .bootstrap-wrapper .col-md-6, .bootstrap-wrapper .col-md-7, .bootstrap-wrapper .col-md-8, .bootstrap-wrapper .col-md-9, .bootstrap-wrapper .col-md-10, .bootstrap-wrapper .col-md-11, .bootstrap-wrapper .col-md-12, .bootstrap-wrapper .col-md, .bootstrap-wrapper .col-md-auto, .bootstrap-wrapper .col-lg-1, .bootstrap-wrapper .col-lg-2, .bootstrap-wrapper .col-lg-3, .bootstrap-wrapper .col-lg-4, .bootstrap-wrapper .col-lg-5, .bootstrap-wrapper .col-lg-6, .bootstrap-wrapper .col-lg-7, .bootstrap-wrapper .col-lg-8, .bootstrap-wrapper .col-lg-9, .bootstrap-wrapper .col-lg-10, .bootstrap-wrapper .col-lg-11, .bootstrap-wrapper .col-lg-12, .bootstrap-wrapper .col-lg, .bootstrap-wrapper .col-lg-auto, .bootstrap-wrapper .col-xl-1, .bootstrap-wrapper .col-xl-2, .bootstrap-wrapper .col-xl-3, .bootstrap-wrapper .col-xl-4, .bootstrap-wrapper .col-xl-5, .bootstrap-wrapper .col-xl-6, .bootstrap-wrapper .col-xl-7, .bootstrap-wrapper .col-xl-8, .bootstrap-wrapper .col-xl-9, .bootstrap-wrapper .col-xl-10, .bootstrap-wrapper .col-xl-11, .bootstrap-wrapper .col-xl-12, .bootstrap-wrapper .col-xl, .bootstrap-wrapper .col-xl-auto{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .reference-picture {
+    display: none;
+  }
+  p{
+     margin-top: 0;
+   }
+  }
+  
