@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penrose Library, Whitman College, Walla Walla, WA</title>
-    <link>https://penrose.whitman.edu/</link>
+    <link>https://library.whitman.edu/</link>
     <description>Recent content on Penrose Library, Whitman College, Walla Walla, WA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://penrose.whitman.edu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://library.whitman.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is the title</title>
-      <link>https://penrose.whitman.edu/blog/this-is-the-title/</link>
+      <link>https://library.whitman.edu/blog/this-is-the-title/</link>
       <pubDate>Fri, 13 Aug 2021 21:26:04 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/this-is-the-title/</guid>
+      <guid>https://library.whitman.edu/blog/this-is-the-title/</guid>
       <description>This is a blog post
 ABC
   point 1
@@ -22,149 +22,149 @@ ABC
     
     <item>
       <title>Penrose Library Floor Map</title>
-      <link>https://penrose.whitman.edu/map/</link>
+      <link>https://library.whitman.edu/map/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/map/</guid>
+      <guid>https://library.whitman.edu/map/</guid>
       <description>First Floor      Second Floor      Third Floor      Fourth Floor      </description>
     </item>
     
     <item>
       <title>Library Services &amp; FAQ</title>
-      <link>https://penrose.whitman.edu/library_services/</link>
+      <link>https://library.whitman.edu/library_services/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/library_services/</guid>
+      <guid>https://library.whitman.edu/library_services/</guid>
       <description>Search Library FAQ   I have a question about…  Accessibility of Library Resources Archives &amp;amp; Special Collections Articles Books Circulation / Borrowing items Citations Copyright Guidance Computers &amp;amp; Printing Using Databases Faculty Services General Information Interlibrary Loans (Borrow items from other libraries) Research Sherlock (Library Catalog)   Frequently Used Forms  General Library Materials Gift Form Honors Thesis related Forms Recording Consent &amp;amp; Copyright Release Form Senior Privileges Form Special Collections Materials Gift Form Suggest a Purchase Form  Library Policies  About the Library Penrose Library: An Educational Partner Penrose Mission and Values Statement Library Use Policy Gifts to Penrose Library Student Employment Library Accessibility Statement Library Newsletter Location and Directions   </description>
     </item>
     
     <item>
       <title>Recently acquired Items</title>
-      <link>https://penrose.whitman.edu/newbook/</link>
+      <link>https://library.whitman.edu/newbook/</link>
       <pubDate>Fri, 16 Jul 2021 21:58:53 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/newbook/</guid>
+      <guid>https://library.whitman.edu/newbook/</guid>
       <description>#text-book-jacketimg{ height:15rem; } .jacket-title{ padding:0; bottom:auto; position:relative; }   $(function(){ $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/newitem/newbooklist_jsonfeed.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39;, cache:false, }).done(function( bibarray ) { $.each(bibarray, function(key,value) { var display1=&#39;&#39;+ value.</description>
     </item>
     
     <item>
       <title>Contact a Librarian</title>
-      <link>https://penrose.whitman.edu/contact_librarian/</link>
+      <link>https://library.whitman.edu/contact_librarian/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/contact_librarian/</guid>
+      <guid>https://library.whitman.edu/contact_librarian/</guid>
       <description>$(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
 &#39;); }, success: function(d) { $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;&#39; + d.</description>
     </item>
     
     <item>
       <title>Course Reserves</title>
-      <link>https://penrose.whitman.edu/course_reserves/</link>
+      <link>https://library.whitman.edu/course_reserves/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/course_reserves/</guid>
+      <guid>https://library.whitman.edu/course_reserves/</guid>
       <description>Enter course number, instructor&amp;rsquo;s name, or choose from list below.
  Search   List of Courses    Course Instructor            const Strings = {}; Strings.</description>
     </item>
     
     <item>
       <title>Library Guides</title>
-      <link>https://penrose.whitman.edu/guides/</link>
+      <link>https://library.whitman.edu/guides/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/guides/</guid>
+      <guid>https://library.whitman.edu/guides/</guid>
       <description>Subject Guides: Resources for every area of study    springshare_widget_config_1625005695222 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=3&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005695222&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005695222&#34;);   Course Guides: Resources for specific classes    springshare_widget_config_1625005740371 = { path: &#39;guides&#39; };!</description>
     </item>
     
     <item>
       <title>Database A-Z</title>
-      <link>https://penrose.whitman.edu/a_z_list/</link>
+      <link>https://library.whitman.edu/a_z_list/</link>
       <pubDate>Mon, 21 Jun 2021 21:58:53 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/a_z_list/</guid>
+      <guid>https://library.whitman.edu/a_z_list/</guid>
       <description>springshare_widget_config_1622747636763 = { path: &#39;assets&#39; }; Search for database Search All Subjects Anthropology  Archives  Art  Art History &amp;amp; Visual Culture Studies  Asian Studies  Astronomy  Biological Sciences  Chemistry  Classics Economics  English  Environmental Studies  Film &amp;amp; Media Studies  Foreign Languages and Literatures French  Gender Studies  General Studies  Geology  German  History Information for Seniors Library Mathematics Music Philosophy Physics Politics Psychology Race and Ethnic Studies Religion Research Rhetoric, Writing, and Public Discourse Sociology  Hispanic Studies Theatre &amp;amp; Dance       function getParameterByName(name, url = window.</description>
     </item>
     
     <item>
       <title>Summer hours and access</title>
-      <link>https://penrose.whitman.edu/blog/summer-hours-and-access/</link>
+      <link>https://library.whitman.edu/blog/summer-hours-and-access/</link>
       <pubDate>Thu, 03 Jun 2021 20:03:17 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/summer-hours-and-access/</guid>
+      <guid>https://library.whitman.edu/blog/summer-hours-and-access/</guid>
       <description>Our Summer hours are 9am-5pm, Monday through Friday.
 The stacks will remain closed and we will continue porch pick-up and will have to pull books upon request.</description>
     </item>
     
     <item>
       <title>Reserving space in the library</title>
-      <link>https://penrose.whitman.edu/blog/reserving-space-in-the-library/</link>
+      <link>https://library.whitman.edu/blog/reserving-space-in-the-library/</link>
       <pubDate>Mon, 01 Feb 2021 11:36:43 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/reserving-space-in-the-library/</guid>
+      <guid>https://library.whitman.edu/blog/reserving-space-in-the-library/</guid>
       <description>The library will be open to faculty, staff, and current students during the following hours, starting February 1st: Sunday: Noon - 10:00 pmMonday - Thursday: 8:30 am - 10:00 pmFriday: 8:30 am - 7:00 pmSaturday: Noon - 7:00 pm You will have to swipe to enter the building, and there is limited capacity, so you may have to wait to enter.</description>
     </item>
     
     <item>
       <title>About the Library</title>
-      <link>https://penrose.whitman.edu/about_the_library/</link>
+      <link>https://library.whitman.edu/about_the_library/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/about_the_library/</guid>
+      <guid>https://library.whitman.edu/about_the_library/</guid>
       <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.</description>
     </item>
     
     <item>
       <title>Explore our Collections</title>
-      <link>https://penrose.whitman.edu/explore_collections/</link>
+      <link>https://library.whitman.edu/explore_collections/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/explore_collections/</guid>
+      <guid>https://library.whitman.edu/explore_collections/</guid>
       <description>Collection Areas Northwest Manuscripts Collection WCNA acknowledges that we exist upon the traditional homeland of the Cayuse, Umatilla, Walla Walla and Nez Perce Peoples. WCNA collects and solicits donations of manuscripts and records from individuals and organizations of significance to the history and present of the Walla Walla region and the inland Pacific Northwest.</description>
     </item>
     
     <item>
       <title>Faculty Services</title>
-      <link>https://penrose.whitman.edu/faculty_services/</link>
+      <link>https://library.whitman.edu/faculty_services/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/faculty_services/</guid>
+      <guid>https://library.whitman.edu/faculty_services/</guid>
       <description>In brief, Top 10 Things for Faculty to know about Penrose Library
 Library Instruction As detailed in the Penrose Library Mission and Guiding Principles and our teaching philosophy and learning goals, the Instructional and Research Services department guides students through the research process, helping them develop critical thinking skills to conduct research, synthesize information, and communicate the results of intellectual inquiry.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://penrose.whitman.edu/announcement/</link>
+      <link>https://library.whitman.edu/announcement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/announcement/</guid>
+      <guid>https://library.whitman.edu/announcement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Ending) Poverty Exhibit in Penrose</title>
-      <link>https://penrose.whitman.edu/blog/ending-poverty-exhibit-in-penrose/</link>
+      <link>https://library.whitman.edu/blog/ending-poverty-exhibit-in-penrose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/ending-poverty-exhibit-in-penrose/</guid>
+      <guid>https://library.whitman.edu/blog/ending-poverty-exhibit-in-penrose/</guid>
       <description>Sojourn Theatre’s How to End Poverty in Ninety Minutes, in production at Whitman’s Freimann Studio Theatre from April 13-17, will offer audience members the opportunity to try to answer the question, “How do we attack the problem of poverty in America?</description>
     </item>
     
     <item>
       <title>2017 Summer Read</title>
-      <link>https://penrose.whitman.edu/blog/2017-summer-read/</link>
+      <link>https://library.whitman.edu/blog/2017-summer-read/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/2017-summer-read/</guid>
+      <guid>https://library.whitman.edu/blog/2017-summer-read/</guid>
       <description>This summer, students entering Whitman College read Jennine Capó Crucet’s novel Make Your Home Among Strangers as their common Summer Read. The novel’s narrator, Lizet Ramirez, is Cuban-American, from Miami.</description>
     </item>
     
     <item>
       <title>A Look Back:  A Brief History of Whitman College Presidential Inaugurations</title>
-      <link>https://penrose.whitman.edu/blog/a-look-back-a-brief-history-of-whitman-college-presidential-inaugurations/</link>
+      <link>https://library.whitman.edu/blog/a-look-back-a-brief-history-of-whitman-college-presidential-inaugurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/a-look-back-a-brief-history-of-whitman-college-presidential-inaugurations/</guid>
+      <guid>https://library.whitman.edu/blog/a-look-back-a-brief-history-of-whitman-college-presidential-inaugurations/</guid>
       <description>Research and post by Bill Huntington, Whitman College and Northwest Archives
 On the occasion of Kathleen Murray’s upcoming installation as the 14th president of Whitman College, it’s a good time to take a look back at inaugurations past.</description>
     </item>
@@ -172,37 +172,37 @@ On the occasion of Kathleen Murray’s upcoming installation as the 14th preside
     <item>
       <title>An Evening of Reflections with Professor David Schmitz in Celebration of the Digitization of The Pioneer
 </title>
-      <link>https://penrose.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/</link>
+      <link>https://library.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/</guid>
+      <guid>https://library.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/</guid>
       <description>A Lecture on “the Liberal Arts in Crisis in the 1970s: A Preview of Volume III of the History of Whitman College” Join Penrose Library and the Office of Alumni Relations to celebrate the digitization of The Pioneer, Whitman’s student newspaper, and the updated of version of ARMINDA, our institutional repository.</description>
     </item>
     
     <item>
       <title>Announcing Sherlock 2.0</title>
-      <link>https://penrose.whitman.edu/blog/announcing-sherlock-2-0/</link>
+      <link>https://library.whitman.edu/blog/announcing-sherlock-2-0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/announcing-sherlock-2-0/</guid>
+      <guid>https://library.whitman.edu/blog/announcing-sherlock-2-0/</guid>
       <description>Beginning July 2, 2018, Sherlock 2.0 will become our default interface for library searching and discovery. This Orbis Cascade Alliance-wide effort strives to improve your experience in discovery and access of our library collections.</description>
     </item>
     
     <item>
       <title>Anti-Racist Reading List</title>
-      <link>https://penrose.whitman.edu/blog/anti-racist-reading-list/</link>
+      <link>https://library.whitman.edu/blog/anti-racist-reading-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/anti-racist-reading-list/</guid>
+      <guid>https://library.whitman.edu/blog/anti-racist-reading-list/</guid>
       <description>This is a brief list of anti-racist books, focused on books we have digital access to while the library is closed. We also want to make a particular point to call out the years of work done by Whitman students through their theses to explore and contend with police brutality, anti-blackness, and race through a variety of prisms and disciplines.</description>
     </item>
     
     <item>
       <title>Art @ Penrose: Bridging Buildings II</title>
-      <link>https://penrose.whitman.edu/blog/art-penrose-bridging-buildings-ii/</link>
+      <link>https://library.whitman.edu/blog/art-penrose-bridging-buildings-ii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/art-penrose-bridging-buildings-ii/</guid>
+      <guid>https://library.whitman.edu/blog/art-penrose-bridging-buildings-ii/</guid>
       <description>This is the first post in an occasional series on works of art on display in Penrose Library.
 Research and post by Phil Stefani
 Bridging Buildings II - Brian Paulsen – 1st floor on map case wall</description>
@@ -210,10 +210,10 @@ Bridging Buildings II - Brian Paulsen – 1st floor on map case wall</descriptio
     
     <item>
       <title>Art @ Penrose: Dots Front Misfire</title>
-      <link>https://penrose.whitman.edu/blog/art-penrose-dots-front-misfire/</link>
+      <link>https://library.whitman.edu/blog/art-penrose-dots-front-misfire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/art-penrose-dots-front-misfire/</guid>
+      <guid>https://library.whitman.edu/blog/art-penrose-dots-front-misfire/</guid>
       <description>This is the second post in an occasional series on works of art on display in Penrose Library.
 Research and post by Philip Stefani
 Dots Front Misfire - Gina Osterloh – 3rd floor across from staff elevator</description>
@@ -221,141 +221,141 @@ Dots Front Misfire - Gina Osterloh – 3rd floor across from staff elevator</des
     
     <item>
       <title>Banned Book Week</title>
-      <link>https://penrose.whitman.edu/blog/banned-book-week/</link>
+      <link>https://library.whitman.edu/blog/banned-book-week/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/banned-book-week/</guid>
+      <guid>https://library.whitman.edu/blog/banned-book-week/</guid>
       <description>https://www.youtube.com/watch?v=bDQSMKWTjyA Top 10 Most Challenged Books of 2019 Banned Books Week is an annual event celebrating the freedom to read, and this year it falls on September 27th to October 3rd.</description>
     </item>
     
     <item>
       <title>Banned Books Week</title>
-      <link>https://penrose.whitman.edu/blog/banned-books-week-2018/</link>
+      <link>https://library.whitman.edu/blog/banned-books-week-2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/banned-books-week-2018/</guid>
+      <guid>https://library.whitman.edu/blog/banned-books-week-2018/</guid>
       <description>[caption id=&amp;ldquo;attachment_1196&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]Penrose display of selected challenged materials.[/caption]
 Modified from the American Library Association Office for Intellectual Freedom: Banned Books Week 2018 is September 23-29.</description>
     </item>
     
     <item>
       <title>Banned Books Week 2016</title>
-      <link>https://penrose.whitman.edu/blog/banned-books-week-2016/</link>
+      <link>https://library.whitman.edu/blog/banned-books-week-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/banned-books-week-2016/</guid>
+      <guid>https://library.whitman.edu/blog/banned-books-week-2016/</guid>
       <description>Banned Books Week, an annual event sponsored by a coalition of libraries, publishers, booksellers, teachers, and journalists, emphasizes the importance of the freedom to express and share ideas.</description>
     </item>
     
     <item>
       <title>Banned Books Week September 27 to October 3
 </title>
-      <link>https://penrose.whitman.edu/blog/banned-books-week-september-27-to-october-3/</link>
+      <link>https://library.whitman.edu/blog/banned-books-week-september-27-to-october-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/banned-books-week-september-27-to-october-3/</guid>
+      <guid>https://library.whitman.edu/blog/banned-books-week-september-27-to-october-3/</guid>
       <description>The Catcher in the Rye . . . The Bluest Eye . . . Harry Potter . . .
 What&amp;rsquo;s your favorite book? If it appears on this list, someone has tried to ban it.</description>
     </item>
     
     <item>
       <title>Banned Books Week: Celebrating the Freedom to Read, Sept. 24 &amp;#8211; 30.</title>
-      <link>https://penrose.whitman.edu/blog/banned-books-week-2017/</link>
+      <link>https://library.whitman.edu/blog/banned-books-week-2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/banned-books-week-2017/</guid>
+      <guid>https://library.whitman.edu/blog/banned-books-week-2017/</guid>
       <description>“Encourages children to break dishes so they won’t have to dry them.” “Is a filthy, filthy book.” Contains “anti-American attitudes, offensive language, political bias, and disturbing fiction.</description>
     </item>
     
     <item>
       <title>Books for winter break reading!</title>
-      <link>https://penrose.whitman.edu/blog/books-for-winter-break-reading/</link>
+      <link>https://library.whitman.edu/blog/books-for-winter-break-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/books-for-winter-break-reading/</guid>
+      <guid>https://library.whitman.edu/blog/books-for-winter-break-reading/</guid>
       <description>If all of the snow and wintry weather make you want to curl up with a good book, Penrose Library staff have some recommendations. If Penrose Library owns the book, we’ve marked it with an asterisk (it may or may not be currently available).</description>
     </item>
     
     <item>
       <title>Café &amp;#8217;41</title>
-      <link>https://penrose.whitman.edu/blog/cafe-41/</link>
+      <link>https://library.whitman.edu/blog/cafe-41/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/cafe-41/</guid>
+      <guid>https://library.whitman.edu/blog/cafe-41/</guid>
       <description>&amp;lt;div style=&amp;quot;width:50%;float:left;margin-top:2px;margin-right:20px&amp;quot;&amp;gt; &amp;lt;img style=&amp;quot;max-width:100%;border:1px solid #454545&amp;quot; src=&amp;quot;http://penrose.whitman.edu/blog/wp-content/uploads/2012/09/cafe414.jpg&amp;quot; /&amp;gt;    What&#39;ll it be? A Café Mocha, Café Latte, Espresso, Latte Breve, Café Americano, Steamer, Cappuccino, Macchiato, Chai, or Italian Soda.</description>
     </item>
     
     <item>
       <title>Celebrate International Games Day 2016</title>
-      <link>https://penrose.whitman.edu/blog/celebrate-international-games-day-2016/</link>
+      <link>https://library.whitman.edu/blog/celebrate-international-games-day-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/celebrate-international-games-day-2016/</guid>
+      <guid>https://library.whitman.edu/blog/celebrate-international-games-day-2016/</guid>
       <description>Post by Lee Keene
 Games are an important part of cultural heritage, and have served in that role for millennia. Indeed, they are as important as literature, art, and music, but rarely do we think of them as raw material for study and analysis.</description>
     </item>
     
     <item>
       <title>Celebrating William O. Douglas</title>
-      <link>https://penrose.whitman.edu/blog/celebrating-william-o-douglas/</link>
+      <link>https://library.whitman.edu/blog/celebrating-william-o-douglas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/celebrating-william-o-douglas/</guid>
+      <guid>https://library.whitman.edu/blog/celebrating-william-o-douglas/</guid>
       <description>In recognition of the 100th anniversary of the graduation of Supreme Court Justice William O. Douglas (1920), we have an exciting new exhibit on the Second Floor (Main Level) in Justice Douglas’s honor.</description>
     </item>
     
     <item>
       <title>Choose Privacy Week 2018</title>
-      <link>https://penrose.whitman.edu/blog/choose-privacy-week-2018/</link>
+      <link>https://library.whitman.edu/blog/choose-privacy-week-2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/choose-privacy-week-2018/</guid>
+      <guid>https://library.whitman.edu/blog/choose-privacy-week-2018/</guid>
       <description>May 1-7 marks Choose Privacy Week annually, but this year it might feel more pressing than in years past, though the privacy issues are not new.</description>
     </item>
     
     <item>
       <title>Come on, get happy!</title>
-      <link>https://penrose.whitman.edu/blog/come-on-get-happy/</link>
+      <link>https://library.whitman.edu/blog/come-on-get-happy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/come-on-get-happy/</guid>
+      <guid>https://library.whitman.edu/blog/come-on-get-happy/</guid>
       <description>Feeling the “winter blues”? Penrose Library houses six light therapy lamps for those who feel light deprived or are suffering from Seasonal Affective Disorder (SAD). Our “happy lights” provide daytime light intensity by replicating early morning or late afternoon spring-time light levels.</description>
     </item>
     
     <item>
       <title>Coronavirus information to stay informed</title>
-      <link>https://penrose.whitman.edu/blog/coronavirus-information-to-stay-informed/</link>
+      <link>https://library.whitman.edu/blog/coronavirus-information-to-stay-informed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/coronavirus-information-to-stay-informed/</guid>
+      <guid>https://library.whitman.edu/blog/coronavirus-information-to-stay-informed/</guid>
       <description>Walla Walla Health Department updates Whitman College updates and information  Many academic publishers have made any coronavirus articles freely available. Here are some resources to learn more about COVID-19 coronavirus from government and academic sources.</description>
     </item>
     
     <item>
       <title>Dedication of CLOUD, a new installation by artist and Whitman professor M Acuff.
 </title>
-      <link>https://penrose.whitman.edu/blog/cloud-dedication/</link>
+      <link>https://library.whitman.edu/blog/cloud-dedication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/cloud-dedication/</guid>
+      <guid>https://library.whitman.edu/blog/cloud-dedication/</guid>
       <description>In the Penrose Library foyer this Friday, November 3rd, from 4:00 - 5:30 pm, Sheehan Gallery, Penrose Library, and the Whitman College Art Advisory Committee invite you to attend the dedication of CLOUD, an interactive sculpture installation by artist and Whitman faculty member M Acuff.</description>
     </item>
     
     <item>
       <title>Earth Day</title>
-      <link>https://penrose.whitman.edu/blog/earth-day/</link>
+      <link>https://library.whitman.edu/blog/earth-day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/earth-day/</guid>
+      <guid>https://library.whitman.edu/blog/earth-day/</guid>
       <description>Earth Day was first observed on April 22, 1970. U.S. Senator from Wisconsin Gaylord Nelson had begun to organize a nationwide teach-in and day for environmental action the previous September.</description>
     </item>
     
     <item>
       <title>eBooks on any device!</title>
-      <link>https://penrose.whitman.edu/blog/ebooks-on-any-device/</link>
+      <link>https://library.whitman.edu/blog/ebooks-on-any-device/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/ebooks-on-any-device/</guid>
+      <guid>https://library.whitman.edu/blog/ebooks-on-any-device/</guid>
       <description>&lt;p&gt;Penrose Library has recently subscribed to three new collections of online scholarly resources: &lt;a href=&#34;https://www.ezproxy.whitman.edu/login?url=http://onlinelibrary.wiley.com/&#34;&gt;Wiley Online Library&lt;/a&gt;, &lt;a href=&#34;https://www.ezproxy.whitman.edu/login?url=http://www.oxfordscholarship.com/&#34;&gt;Oxford Scholarship Online&lt;/a&gt; and &lt;a href=&#34;https://www.ezproxy.whitman.edu/login?url=https://www.tandfebooks.com&#34;&gt;Taylor &amp;amp; Francis eBooks&lt;/a&gt;. Whitman faculty, students, and staff may access the 100,000 Digital Rights Management (DRM) free resources on any device that supports PDFs including e-Readers or mobile devices. Materials may be printed without page restrictions (copyright law still applies). All titles in these three platforms have an unlimited number of simultaneous users and are available for use in a class reading list or course reserves.&lt;/p&gt;
 &lt;p&gt;Oxford Scholarship Online includes all publications from Oxford University Press and University of California Press, covering the humanities, social sciences, sciences, medicine, and law.&lt;/p&gt;
 &lt;p&gt;Wiley Online Library hosts a large multidisciplinary collection of online resources covering life, health and physical sciences, social science, and the humanities.
@@ -364,47 +364,47 @@ Taylor &amp;amp; Francis eBooks is a platform with over 66,000 eBooks and provid
     
     <item>
       <title>End of Semester Hours</title>
-      <link>https://penrose.whitman.edu/blog/end-of-semester-hours/</link>
+      <link>https://library.whitman.edu/blog/end-of-semester-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/end-of-semester-hours/</guid>
+      <guid>https://library.whitman.edu/blog/end-of-semester-hours/</guid>
       <description>Penrose Library will be open: May 14: open until 10 pm May 15-16: 9:00 am - 10:00 pm May 17-19: 9:00 am - 5:00 pm We begin observing summer hours, M-F 9:00 am - 5:00 pm, on May 20th.</description>
     </item>
     
     <item>
       <title>Exhibit on Creative Nonfiction</title>
-      <link>https://penrose.whitman.edu/blog/exhibit-on-creative-nonfiction/</link>
+      <link>https://library.whitman.edu/blog/exhibit-on-creative-nonfiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/exhibit-on-creative-nonfiction/</guid>
+      <guid>https://library.whitman.edu/blog/exhibit-on-creative-nonfiction/</guid>
       <description>What is Creative Nonfiction? Students in Professor Kisha Schlegel’s course English 176: Introduction to Creative Nonfiction have each answered this question in their responses to creative nonfiction texts from Penrose Library.</description>
     </item>
     
     <item>
       <title>Fake news and information literacy</title>
-      <link>https://penrose.whitman.edu/blog/fake-news-and-information-literacy/</link>
+      <link>https://library.whitman.edu/blog/fake-news-and-information-literacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/fake-news-and-information-literacy/</guid>
+      <guid>https://library.whitman.edu/blog/fake-news-and-information-literacy/</guid>
       <description>[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Randall Munroe, &amp;ldquo;Duty Calls,&amp;rdquo; xkcd webcomic. https://xkcd.com/386/ https://creativecommons.org/licenses/by-nc/2.5/[/caption]
 In the wake of the presidential election of 2016, a key concern has been the spreading of fake news, especially via social media.</description>
     </item>
     
     <item>
       <title>Feeling the “winter blues”?</title>
-      <link>https://penrose.whitman.edu/blog/feeling-the-winter-blues/</link>
+      <link>https://library.whitman.edu/blog/feeling-the-winter-blues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/feeling-the-winter-blues/</guid>
+      <guid>https://library.whitman.edu/blog/feeling-the-winter-blues/</guid>
       <description>Penrose Library houses six light therapy lamps for those who feel light deprived or are suffering from Seasonal Affective Disorder (SAD). Our “happy lights” provide daytime light intensity by replicating early morning or late afternoon spring-time light levels.</description>
     </item>
     
     <item>
       <title>Finals week message</title>
-      <link>https://penrose.whitman.edu/blog/finals-week-message/</link>
+      <link>https://library.whitman.edu/blog/finals-week-message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/finals-week-message/</guid>
+      <guid>https://library.whitman.edu/blog/finals-week-message/</guid>
       <description>Three out of five Whitties interviewed in this video prefer to study in Penrose Library. We&amp;rsquo;re always glad to see you here!
 https://www.youtube.com/watch?v=_AyTQm1jPic
 For finals week, we send all Whitman students our best wishes for health, as much sleep as possible, fortitude, and success in all of your final exams, papers, and projects.</description>
@@ -412,225 +412,225 @@ For finals week, we send all Whitman students our best wishes for health, as muc
     
     <item>
       <title>First-Year Students: Find Your Personal Librarian!</title>
-      <link>https://penrose.whitman.edu/blog/first-year-students-find-your-personal-librarian/</link>
+      <link>https://library.whitman.edu/blog/first-year-students-find-your-personal-librarian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/first-year-students-find-your-personal-librarian/</guid>
+      <guid>https://library.whitman.edu/blog/first-year-students-find-your-personal-librarian/</guid>
       <description>Personal Librarians at Penrose First-year students: do you need an introduction to college level library research? Your very own personal librarian can give you a quick orientation to finding and using library resources, help you get started on a paper or assignment, and generally answer any library-related questions you may have.</description>
     </item>
     
     <item>
       <title>Graduation 1917</title>
-      <link>https://penrose.whitman.edu/blog/graduation-1917/</link>
+      <link>https://library.whitman.edu/blog/graduation-1917/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/graduation-1917/</guid>
+      <guid>https://library.whitman.edu/blog/graduation-1917/</guid>
       <description>The Whitman College class of 1917 is not as well-documented as many others; after 1916, there was a hiatus in the production of Waiilatpu, the Whitman College yearbook, that lasted until 1921.</description>
     </item>
     
     <item>
       <title>Halloween in the Archives</title>
-      <link>https://penrose.whitman.edu/blog/halloween-in-the-archives/</link>
+      <link>https://library.whitman.edu/blog/halloween-in-the-archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/halloween-in-the-archives/</guid>
+      <guid>https://library.whitman.edu/blog/halloween-in-the-archives/</guid>
       <description>[caption id=&amp;ldquo;attachment_1034&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;316&amp;rdquo;]Whitman College Pioneer, October 29, 1987[/caption]
 In the Whitman College and Northwest Archives, you can see how Whitman students have been celebrating Halloween throughout the decades.</description>
     </item>
     
     <item>
       <title>Halloweens Past Look to the Future</title>
-      <link>https://penrose.whitman.edu/blog/halloweens-past-look-to-the-future/</link>
+      <link>https://library.whitman.edu/blog/halloweens-past-look-to-the-future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/halloweens-past-look-to-the-future/</guid>
+      <guid>https://library.whitman.edu/blog/halloweens-past-look-to-the-future/</guid>
       <description>Looking back 100 years or so, how did Americans celebrate Halloween? Trick-or-treating was not established, although pranks certainly were; decorating with jack-o-lanterns was popular, and costumes were much in demand.</description>
     </item>
     
     <item>
       <title>Hispanic Heritage Month 2016</title>
-      <link>https://penrose.whitman.edu/blog/hispanic-heritage-month-2016/</link>
+      <link>https://library.whitman.edu/blog/hispanic-heritage-month-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/hispanic-heritage-month-2016/</guid>
+      <guid>https://library.whitman.edu/blog/hispanic-heritage-month-2016/</guid>
       <description>Hispanic Heritage Month (September 15-October 15) recognizes and celebrates the societal and cultural contributions of Hispanic people in the United States. Read more about it and explore links to many online exhibits and collections on the Library of Congress Hispanic Heritage Month webpage.</description>
     </item>
     
     <item>
       <title>How do I &amp;#8230; find the Library FAQ?</title>
-      <link>https://penrose.whitman.edu/blog/how-do-i-find-the-library-faq/</link>
+      <link>https://library.whitman.edu/blog/how-do-i-find-the-library-faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/how-do-i-find-the-library-faq/</guid>
+      <guid>https://library.whitman.edu/blog/how-do-i-find-the-library-faq/</guid>
       <description>You can find answers to questions about how to find or use library resources, or about library policies and library hours, on dedicated information pages and in the Penrose Library knowledge base.</description>
     </item>
     
     <item>
       <title>ILL and Summit end-of-semester deadlines 2016
 </title>
-      <link>https://penrose.whitman.edu/blog/ill-and-summit-end-of-semester-deadlines-2016/</link>
+      <link>https://library.whitman.edu/blog/ill-and-summit-end-of-semester-deadlines-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/ill-and-summit-end-of-semester-deadlines-2016/</guid>
+      <guid>https://library.whitman.edu/blog/ill-and-summit-end-of-semester-deadlines-2016/</guid>
       <description>As the end of the semester approaches, bringing due dates for papers and projects, Penrose Library staff want to help you find and access sources that you need for your research.</description>
     </item>
     
     <item>
       <title>ILL and Summit ordering at the end of the semester
 </title>
-      <link>https://penrose.whitman.edu/blog/ill-and-summit-ordering-at-the-end-of-the-semester/</link>
+      <link>https://library.whitman.edu/blog/ill-and-summit-ordering-at-the-end-of-the-semester/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/ill-and-summit-ordering-at-the-end-of-the-semester/</guid>
+      <guid>https://library.whitman.edu/blog/ill-and-summit-ordering-at-the-end-of-the-semester/</guid>
       <description>As the end of the semester approaches, bringing due dates for papers and projects, Penrose Library staff want to help you find and access sources that you need for your research.</description>
     </item>
     
     <item>
       <title>International Open Access Week 2018</title>
-      <link>https://penrose.whitman.edu/blog/international-open-access-week-2018/</link>
+      <link>https://library.whitman.edu/blog/international-open-access-week-2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/international-open-access-week-2018/</guid>
+      <guid>https://library.whitman.edu/blog/international-open-access-week-2018/</guid>
       <description>October 22-28, 2018 celebrates International Open Access Week! Open Access Week highlights the potential benefits of Open Access (OA) to make scholarly research available in digital forms online, free of charge and free of many copyright and licensing restrictions.</description>
     </item>
     
     <item>
       <title>International Women’s Day and Women’s History Month
 </title>
-      <link>https://penrose.whitman.edu/blog/international-womens-day-and-womens-history-month/</link>
+      <link>https://library.whitman.edu/blog/international-womens-day-and-womens-history-month/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/international-womens-day-and-womens-history-month/</guid>
+      <guid>https://library.whitman.edu/blog/international-womens-day-and-womens-history-month/</guid>
       <description>For International Women’s Day on March 8, library video streaming service Kanopy has created a collection of films that document women and women’s achievements and challenges in a variety of contexts.</description>
     </item>
     
     <item>
       <title>Introducing ARMINDA!</title>
-      <link>https://penrose.whitman.edu/blog/introducing-arminda/</link>
+      <link>https://library.whitman.edu/blog/introducing-arminda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/introducing-arminda/</guid>
+      <guid>https://library.whitman.edu/blog/introducing-arminda/</guid>
       <description>In the summer of 2015, Penrose Library joined a network of hundreds of academic institutions who use the Digital Commons software service to host their institutional repository.</description>
     </item>
     
     <item>
       <title>Introducing Sherlock 2.0</title>
-      <link>https://penrose.whitman.edu/blog/introducing-sherlock-2-0/</link>
+      <link>https://library.whitman.edu/blog/introducing-sherlock-2-0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/introducing-sherlock-2-0/</guid>
+      <guid>https://library.whitman.edu/blog/introducing-sherlock-2-0/</guid>
       <description>[gallery size=&amp;ldquo;large&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;1121,1122,1120&amp;rdquo;]
 Through Spring 2018, Penrose will be doing a soft launch of a new interface for Sherlock. You can choose this new interface by using the slider under the search box on the library home page, switching between Sherlock and the new interface, Sherlock 2.</description>
     </item>
     
     <item>
       <title>KIC your paper habit</title>
-      <link>https://penrose.whitman.edu/blog/kic-your-paper-habit/</link>
+      <link>https://library.whitman.edu/blog/kic-your-paper-habit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/kic-your-paper-habit/</guid>
+      <guid>https://library.whitman.edu/blog/kic-your-paper-habit/</guid>
       <description>Penrose Library is excited to introduce our new KIC (Knowledge Imaging Center) walk-up scanning station. Using the KIC scanner is as easy as making a photocopy but allows you much more flexibility.</description>
     </item>
     
     <item>
       <title>Leap year: ladies’ choice</title>
-      <link>https://penrose.whitman.edu/blog/leap-year-ladies-choice/</link>
+      <link>https://library.whitman.edu/blog/leap-year-ladies-choice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/leap-year-ladies-choice/</guid>
+      <guid>https://library.whitman.edu/blog/leap-year-ladies-choice/</guid>
       <description>The English term “leap year” refers to the bissextile year, which has 366 days rather than the usual 365 in order to reconcile the tropical year (cycle of the seasons) with the calendar year.</description>
     </item>
     
     <item>
       <title>Learning and Fun with Puzzles</title>
-      <link>https://penrose.whitman.edu/blog/learning-and-fun-with-puzzles/</link>
+      <link>https://library.whitman.edu/blog/learning-and-fun-with-puzzles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/learning-and-fun-with-puzzles/</guid>
+      <guid>https://library.whitman.edu/blog/learning-and-fun-with-puzzles/</guid>
       <description>[caption id=&amp;ldquo;attachment_899&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;258&amp;rdquo;]“The Six Best Sellers,” Ruth Eastman, Front page for Judge, vol. 88, no. 2254. From the New York Public Library Digital Collections: http://digitalcollections.</description>
     </item>
     
     <item>
       <title>Lever Press presentation on October 17</title>
-      <link>https://penrose.whitman.edu/blog/lever-press-presentation-on-october-17/</link>
+      <link>https://library.whitman.edu/blog/lever-press-presentation-on-october-17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/lever-press-presentation-on-october-17/</guid>
+      <guid>https://library.whitman.edu/blog/lever-press-presentation-on-october-17/</guid>
       <description>Penrose Library and the Center for Teaching &amp;amp; Learning are pleased to welcome Beth Bouloukos, the Senior Acquisitions Editor at Lever Press, to campus on Tuesday, October 17th for a talk in the CTL at noon.</description>
     </item>
     
     <item>
       <title>Libraries strengthen their communities: celebrate National Library Week April 7-13</title>
-      <link>https://penrose.whitman.edu/blog/libraries-strengthen-their-communities-celebrate-national-library-week-april-7-13/</link>
+      <link>https://library.whitman.edu/blog/libraries-strengthen-their-communities-celebrate-national-library-week-april-7-13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/libraries-strengthen-their-communities-celebrate-national-library-week-april-7-13/</guid>
+      <guid>https://library.whitman.edu/blog/libraries-strengthen-their-communities-celebrate-national-library-week-april-7-13/</guid>
       <description>[caption id=&#34;attachment_1287&#34; align=&#34;alignright&#34; width=&#34;300&#34;]Libraries=Strong Communities[/caption]
 This week, Penrose Library joins libraries of all types in celebrating the many ways libraries build strong communities by providing critical resources, programs and expertise.</description>
     </item>
     
     <item>
       <title>Libraries Transform</title>
-      <link>https://penrose.whitman.edu/blog/libraries-transform/</link>
+      <link>https://library.whitman.edu/blog/libraries-transform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/libraries-transform/</guid>
+      <guid>https://library.whitman.edu/blog/libraries-transform/</guid>
       <description>April 9-15, 2017 is National Library Week! National Library Week was established in 1958 to promote reading and the use of libraries. The theme for 2017 is “Libraries Transform” &amp;ndash; libraries themselves change, and, more importantly, they change lives by offering access to information and technology, providing relevant collections, and facilitating community engagement.</description>
     </item>
     
     <item>
       <title>Library access over break</title>
-      <link>https://penrose.whitman.edu/blog/library-access-over-break/</link>
+      <link>https://library.whitman.edu/blog/library-access-over-break/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-access-over-break/</guid>
+      <guid>https://library.whitman.edu/blog/library-access-over-break/</guid>
       <description>The library building will remain closed over break. Porch pickup will be available on the following dates:
 December 6 - December 23, January 5 - 26: Open for pickup 1:00 pm - 4:00 pm Tuesday - Friday, closed Saturday - Monday</description>
     </item>
     
     <item>
       <title>Library classes for Spring 2016</title>
-      <link>https://penrose.whitman.edu/blog/library-classes-for-spring-2016/</link>
+      <link>https://library.whitman.edu/blog/library-classes-for-spring-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-classes-for-spring-2016/</guid>
+      <guid>https://library.whitman.edu/blog/library-classes-for-spring-2016/</guid>
       <description>Do you want to learn how to navigate the Library&amp;rsquo;s resources with ease and find the best sources for your papers and assignments? Are you interested in learning how a scrapbook, a map, or a lock of hair can become a primary source for your research?</description>
     </item>
     
     <item>
       <title>Library Display on Civil Rights and Social Justice
 </title>
-      <link>https://penrose.whitman.edu/blog/library-display-on-civil-rights-and-social-justice/</link>
+      <link>https://library.whitman.edu/blog/library-display-on-civil-rights-and-social-justice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-display-on-civil-rights-and-social-justice/</guid>
+      <guid>https://library.whitman.edu/blog/library-display-on-civil-rights-and-social-justice/</guid>
       <description>In the weeks between Martin Luther King, Jr., Day and Whitman’s Power and Privilege Symposium on February 18, 2016, Penrose Library is featuring a display of books and films from our collection that address the Civil Rights Movement and its legacy, and issues in and struggles for diversity, equality, and social justice.</description>
     </item>
     
     <item>
       <title>Library Exhibit for Summer Read 2015: Brother, I’m Dying</title>
-      <link>https://penrose.whitman.edu/blog/library-exhibit-for-summer-read-2015-brother-im-dying/</link>
+      <link>https://library.whitman.edu/blog/library-exhibit-for-summer-read-2015-brother-im-dying/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-exhibit-for-summer-read-2015-brother-im-dying/</guid>
+      <guid>https://library.whitman.edu/blog/library-exhibit-for-summer-read-2015-brother-im-dying/</guid>
       <description>As part of Whitman College’s 2015 Summer Read program, first-year students read Edwidge Danticat’s 2007 family memoir Brother, I’m Dying. Danticat writes about her childhood experiences in Haiti living with her uncle and aunt, and her move to join her parents in the United States at age twelve.</description>
     </item>
     
     <item>
       <title>Library Flix: Kanopy Videostreaming</title>
-      <link>https://penrose.whitman.edu/blog/library-flix-kanopy-videostreaming/</link>
+      <link>https://library.whitman.edu/blog/library-flix-kanopy-videostreaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-flix-kanopy-videostreaming/</guid>
+      <guid>https://library.whitman.edu/blog/library-flix-kanopy-videostreaming/</guid>
       <description>Streaming video is not brand-new to Penrose Library. We first offered Films on Demand, a collection of thousands of educational programs, in 2010, and have since added specialized collections for Theatre and Dance such as ontheboards.</description>
     </item>
     
     <item>
       <title>Library Hours during Winter Break</title>
-      <link>https://penrose.whitman.edu/blog/library-hours-during-winter-break/</link>
+      <link>https://library.whitman.edu/blog/library-hours-during-winter-break/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-hours-during-winter-break/</guid>
+      <guid>https://library.whitman.edu/blog/library-hours-during-winter-break/</guid>
       <description>Penrose Library hours between Fall semester 2017 and Spring semester 2018 will be as follows:
 Friday Dec. 15: close at 5 pm
 Saturday Dec. 16 - Thursday Dec.</description>
@@ -639,151 +639,151 @@ Saturday Dec. 16 - Thursday Dec.</description>
     <item>
       <title>Library Use at Orbis Cascade Alliance Libraries
 </title>
-      <link>https://penrose.whitman.edu/blog/library-use-at-orbis-cascade-alliance-libraries/</link>
+      <link>https://library.whitman.edu/blog/library-use-at-orbis-cascade-alliance-libraries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/library-use-at-orbis-cascade-alliance-libraries/</guid>
+      <guid>https://library.whitman.edu/blog/library-use-at-orbis-cascade-alliance-libraries/</guid>
       <description>Attention returning students, faculty, and staff. If you will be at another Orbis Cascade Alliance Library this summer (see list of libraries), you can check out books there!</description>
     </item>
     
     <item>
       <title>National Children&amp;#8217;s Book Week 2017</title>
-      <link>https://penrose.whitman.edu/blog/national-childrens-book-week-2017/</link>
+      <link>https://library.whitman.edu/blog/national-childrens-book-week-2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/national-childrens-book-week-2017/</guid>
+      <guid>https://library.whitman.edu/blog/national-childrens-book-week-2017/</guid>
       <description>This year, National Children’s Book Week is May 1-7. This national literacy initiative was first established in 1919, and is administered by the nonprofit foundation Every Child a Reader.</description>
     </item>
     
     <item>
       <title>New Databases in Penrose</title>
-      <link>https://penrose.whitman.edu/blog/new-databases-in-penrose/</link>
+      <link>https://library.whitman.edu/blog/new-databases-in-penrose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/new-databases-in-penrose/</guid>
+      <guid>https://library.whitman.edu/blog/new-databases-in-penrose/</guid>
       <description>Two new databases recently added to the Penrose Library collection open up many possibilities for primary source-based research using popular magazines.
 The Women’s Magazine Archive contains complete full text for six women’s interest consumer magazines: Better Homes and Gardens (1925-1961), Chatelaine (1940-2005), Good Housekeeping (1886-1932), Ladies Home Journal (1887-1919), Parents (1949-1972), and Redbook (1903-1999).</description>
     </item>
     
     <item>
       <title>New e-Resources in the Library</title>
-      <link>https://penrose.whitman.edu/blog/new-e-resources-in-the-library/</link>
+      <link>https://library.whitman.edu/blog/new-e-resources-in-the-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/new-e-resources-in-the-library/</guid>
+      <guid>https://library.whitman.edu/blog/new-e-resources-in-the-library/</guid>
       <description>Just in time for the start of another semester, Penrose has added some great new e-Resources to our collection. You can find all of these in ourA-Z List of e-Resources.</description>
     </item>
     
     <item>
       <title>New High Tech Smart Dock</title>
-      <link>https://penrose.whitman.edu/blog/new-high-tech-smart-dock/</link>
+      <link>https://library.whitman.edu/blog/new-high-tech-smart-dock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/new-high-tech-smart-dock/</guid>
+      <guid>https://library.whitman.edu/blog/new-high-tech-smart-dock/</guid>
       <description>The scanner on the main floor of Penrose Library is now even more high-tech! Our nifty new Smart Dock allows you to connect your Android or iOS device via the KIC Scanner wifi network, then upload your scanned document directly to your device.</description>
     </item>
     
     <item>
       <title>New website for Penrose Library</title>
-      <link>https://penrose.whitman.edu/blog/new-website-for-penrose-library/</link>
+      <link>https://library.whitman.edu/blog/new-website-for-penrose-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/new-website-for-penrose-library/</guid>
+      <guid>https://library.whitman.edu/blog/new-website-for-penrose-library/</guid>
       <description>We have made many changes to the Penrose Library website over the summer! Systems and Applications Librarian Kun Lin started work on the redesign by meeting with faculty and student focus groups in the spring semester of 2015.</description>
     </item>
     
     <item>
       <title>October Break Library Hours</title>
-      <link>https://penrose.whitman.edu/blog/october-break-library-hours/</link>
+      <link>https://library.whitman.edu/blog/october-break-library-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/october-break-library-hours/</guid>
+      <guid>https://library.whitman.edu/blog/october-break-library-hours/</guid>
       <description>Penrose Library will be open the following hours to the Whitman community during October break:
 October 3: open until midnight. October 4-6: 9:00 am - 10:00 pm.</description>
     </item>
     
     <item>
       <title>On exhibit at Penrose: rare books from the McFarlane Collection</title>
-      <link>https://penrose.whitman.edu/blog/on-exhibit-at-penrose-rare-books-from-the-mcfarlane-collection/</link>
+      <link>https://library.whitman.edu/blog/on-exhibit-at-penrose-rare-books-from-the-mcfarlane-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/on-exhibit-at-penrose-rare-books-from-the-mcfarlane-collection/</guid>
+      <guid>https://library.whitman.edu/blog/on-exhibit-at-penrose-rare-books-from-the-mcfarlane-collection/</guid>
       <description>Post written by Ben Murphy
 Currently on display on the main floor of Penrose Library is a selection of rare books from the Vernon H. McFarlane Collection of Finely Illustrated Texts.</description>
     </item>
     
     <item>
       <title>Open Access Week 2016</title>
-      <link>https://penrose.whitman.edu/blog/open-access-week-2016/</link>
+      <link>https://library.whitman.edu/blog/open-access-week-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/open-access-week-2016/</guid>
+      <guid>https://library.whitman.edu/blog/open-access-week-2016/</guid>
       <description>As subscriptions to scholarly journals have become more and more expensive, encountering a paywall &amp;ndash; the requirement that you pay for access to an article, dataset, or other scholarly resource &amp;ndash; can frustrate even scholars using the most extensive and best-funded libraries, if the subscriptions to the journals they need are not affordable.</description>
     </item>
     
     <item>
       <title>Open Access Week 2017</title>
-      <link>https://penrose.whitman.edu/blog/open-access-week-2017/</link>
+      <link>https://library.whitman.edu/blog/open-access-week-2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/open-access-week-2017/</guid>
+      <guid>https://library.whitman.edu/blog/open-access-week-2017/</guid>
       <description>This week is International Open Access Week, which takes place annually in the last full week of October. The underlying principles of open access (OA) scholarship are to make scholarly research available in digital forms online, free of charge and free of many copyright and licensing restrictions.</description>
     </item>
     
     <item>
       <title>Open Textbooks: Math</title>
-      <link>https://penrose.whitman.edu/blog/open-textbooks-math/</link>
+      <link>https://library.whitman.edu/blog/open-textbooks-math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/open-textbooks-math/</guid>
+      <guid>https://library.whitman.edu/blog/open-textbooks-math/</guid>
       <description>In honor of Open Access week, we’re highlighting some open projects on campus. Faculty members in the Whitman College Mathematics and Computer Science Department are producing Open Educational Resources (OER): textbooks that are freely available online for use and for reuse, usually with a Creative Commons license that makes those terms clear.</description>
     </item>
     
     <item>
       <title>Penrose Director elected to OCLC Global Council
 </title>
-      <link>https://penrose.whitman.edu/blog/our-trusty-director-is-now-a-delegate-to-oclcs-global-council/</link>
+      <link>https://library.whitman.edu/blog/our-trusty-director-is-now-a-delegate-to-oclcs-global-council/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/our-trusty-director-is-now-a-delegate-to-oclcs-global-council/</guid>
+      <guid>https://library.whitman.edu/blog/our-trusty-director-is-now-a-delegate-to-oclcs-global-council/</guid>
       <description>Dalia Corkrum, the Director of Penrose Library, was elected as an Americas Regional Council (ARC) Delegate to the Global Council of the Online Computer Library Center (OCLC).</description>
     </item>
     
     <item>
       <title>Penrose Library Hours</title>
-      <link>https://penrose.whitman.edu/blog/penrose-library-hours/</link>
+      <link>https://library.whitman.edu/blog/penrose-library-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/penrose-library-hours/</guid>
+      <guid>https://library.whitman.edu/blog/penrose-library-hours/</guid>
       <description>Please be aware that Penrose Library&amp;rsquo;s hours have changed to reflect the end of the semester: 5/15: Closed at 10:00 pm 5/16-5/17: 9:00 am - 10:00 pm 5/18-5/20: 9:00 am - 5:00 pm Beginning Monday, 5/21, the summer schedule will be in effect: Mon-Fri: 9:00 am - 5:00 pm Sat-Sun: closed Please note: Thursday, 5/24, the library will be closed for Staff Recognition Day.</description>
     </item>
     
     <item>
       <title>Penrose Library is proud to present the Spring 2014 Library Newsletter
 </title>
-      <link>https://penrose.whitman.edu/blog/penrose-library-is-proud-to-present-the-spring-2014-library-newsletter/</link>
+      <link>https://library.whitman.edu/blog/penrose-library-is-proud-to-present-the-spring-2014-library-newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/penrose-library-is-proud-to-present-the-spring-2014-library-newsletter/</guid>
+      <guid>https://library.whitman.edu/blog/penrose-library-is-proud-to-present-the-spring-2014-library-newsletter/</guid>
       <description>Penrose Library is proud to present the Spring 2014 Library Newsletter that highlights our news, achievements and staff developments. We need to thank Lynne Vieth, Research &amp;amp; Instruction Librarian, who was instrumental in developing and producing this piece.</description>
     </item>
     
     <item>
       <title>Penrose Library makes list of Top 10 Best Academic Libraries in the Country!
 </title>
-      <link>https://penrose.whitman.edu/blog/penrose-library-makes-list-of-top-10-best-academic-libraries-in-the-country/</link>
+      <link>https://library.whitman.edu/blog/penrose-library-makes-list-of-top-10-best-academic-libraries-in-the-country/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/penrose-library-makes-list-of-top-10-best-academic-libraries-in-the-country/</guid>
+      <guid>https://library.whitman.edu/blog/penrose-library-makes-list-of-top-10-best-academic-libraries-in-the-country/</guid>
       <description>Penrose Library is delighted to learn that The Princeton Review has named it to the list of Top 10 College/University Libraries for 2014. Based upon a survey of 126,000 students at 378 schools, Penrose was ranked #9.</description>
     </item>
     
     <item>
       <title>Penrose Library Winter Break Hours</title>
-      <link>https://penrose.whitman.edu/blog/penrose-library-winter-break-hours/</link>
+      <link>https://library.whitman.edu/blog/penrose-library-winter-break-hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/penrose-library-winter-break-hours/</guid>
+      <guid>https://library.whitman.edu/blog/penrose-library-winter-break-hours/</guid>
       <description>Penrose Library hours between Fall semester 2019 and Spring semester 2020 will be as follows:
 Friday Dec. 20: close at 5 pm
 Dec. 21 – Jan.</description>
@@ -791,250 +791,250 @@ Dec. 21 – Jan.</description>
     
     <item>
       <title>Penrose Updates for Fall 2016</title>
-      <link>https://penrose.whitman.edu/blog/penrose-updates-for-fall-2016/</link>
+      <link>https://library.whitman.edu/blog/penrose-updates-for-fall-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/penrose-updates-for-fall-2016/</guid>
+      <guid>https://library.whitman.edu/blog/penrose-updates-for-fall-2016/</guid>
       <description>Penrose Library welcomes everyone back to campus for the fall semester. Our hours on Monday, August 29 are 9 am to 10 pm. We open at 9 am on Tuesday, August 30, and our 24/7 schedule resumes from that point on.</description>
     </item>
     
     <item>
       <title>Peter Newland &amp;#8217;67 and Robyn Johnson Artists&amp;#8217; Books Reception</title>
-      <link>https://penrose.whitman.edu/blog/peter-newland-67-and-robyn-johnson-artists-books-reception/</link>
+      <link>https://library.whitman.edu/blog/peter-newland-67-and-robyn-johnson-artists-books-reception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/peter-newland-67-and-robyn-johnson-artists-books-reception/</guid>
+      <guid>https://library.whitman.edu/blog/peter-newland-67-and-robyn-johnson-artists-books-reception/</guid>
       <description>On Tuesday, Oct. 1, from 4:30 pm - 6:00 pm, Penrose Library and the Art Department will host a reception for Peter Newland &amp;lsquo;67 and Robyn Johnson.</description>
     </item>
     
     <item>
       <title>Please excuse the mess!</title>
-      <link>https://penrose.whitman.edu/blog/please-excuse-the-mess/</link>
+      <link>https://library.whitman.edu/blog/please-excuse-the-mess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/please-excuse-the-mess/</guid>
+      <guid>https://library.whitman.edu/blog/please-excuse-the-mess/</guid>
       <description>This winter, Penrose is getting a sustainability upgrade. We appreciate your patience while work crews convert all lighting to energy-efficient LED lamps. Please watch out for ladders and work crews.</description>
     </item>
     
     <item>
       <title>Presidential election 1916</title>
-      <link>https://penrose.whitman.edu/blog/presidential-election-1916/</link>
+      <link>https://library.whitman.edu/blog/presidential-election-1916/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/presidential-election-1916/</guid>
+      <guid>https://library.whitman.edu/blog/presidential-election-1916/</guid>
       <description>On October 11, the Fivethirtyeight blog predicted starkly different outcomes of the 2016 US presidential election if only men voted versus if only women voted. This sparked many reactions, including the trending of the hashtag #repealthe19th on Twitter.</description>
     </item>
     
     <item>
       <title>Public Domain in 2019</title>
-      <link>https://penrose.whitman.edu/blog/public-domain-in-2019/</link>
+      <link>https://library.whitman.edu/blog/public-domain-in-2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/public-domain-in-2019/</guid>
+      <guid>https://library.whitman.edu/blog/public-domain-in-2019/</guid>
       <description>(Cover art: Hopper, E. (1923). The Locomotive. Retrieved fromhttps://www.nga.gov/collection/art-object-page.137001.html)
 2019 is a big year for copyright in the US. January 1st marked the first mass release of materials into the public domain since 1998, when the Sonny Bono Act passed and pushed the amount of time after a work was created that it would be released to the public domain up to 95 years (“Public Domain Day 2019,” 2019).</description>
     </item>
     
     <item>
       <title>Read a local newspaper!</title>
-      <link>https://penrose.whitman.edu/blog/read-local-newspaper/</link>
+      <link>https://library.whitman.edu/blog/read-local-newspaper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/read-local-newspaper/</guid>
+      <guid>https://library.whitman.edu/blog/read-local-newspaper/</guid>
       <description>[caption id=&amp;ldquo;attachment_1090&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;150&amp;rdquo;]By Steve Morgan (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons[/caption] Access World News is a current Penrose Library database subscription that provides newspaper articles from 6,365 different sources and from 135 different countries.</description>
     </item>
     
     <item>
       <title>Resources to help you find, cite, use, and manage data for classes and research
 </title>
-      <link>https://penrose.whitman.edu/blog/resources-to-help-you-find-cite-use-and-manage-data-for-classes-and-research/</link>
+      <link>https://library.whitman.edu/blog/resources-to-help-you-find-cite-use-and-manage-data-for-classes-and-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/resources-to-help-you-find-cite-use-and-manage-data-for-classes-and-research/</guid>
+      <guid>https://library.whitman.edu/blog/resources-to-help-you-find-cite-use-and-manage-data-for-classes-and-research/</guid>
       <description>Resources to help you find, cite, use, and manage data for classes and research If you need to find data to support an argument in a paper or to analyze for a project, where do you start?</description>
     </item>
     
     <item>
       <title>Richard Bogle and America Waldo Bogle</title>
-      <link>https://penrose.whitman.edu/blog/richard-bogle-and-america-waldo-bogle/</link>
+      <link>https://library.whitman.edu/blog/richard-bogle-and-america-waldo-bogle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/richard-bogle-and-america-waldo-bogle/</guid>
+      <guid>https://library.whitman.edu/blog/richard-bogle-and-america-waldo-bogle/</guid>
       <description>Among the photographs in the Walla Walla Photographs Collection in ARMINDA, the Whitman College Institutional Repository, is this image of the Bogle family of Walla Walla.</description>
     </item>
     
     <item>
       <title>Seeing Stories @ Penrose Library</title>
-      <link>https://penrose.whitman.edu/blog/seeing-stories-penrose-library/</link>
+      <link>https://library.whitman.edu/blog/seeing-stories-penrose-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/seeing-stories-penrose-library/</guid>
+      <guid>https://library.whitman.edu/blog/seeing-stories-penrose-library/</guid>
       <description>Comics. Cartoons. Manga. Bande dessinée. Graphic novels. Seeing Stories: Traversing the Graphic Narrative is a semester-long exploration of graphic narrative expression currently on display at the Sheehan Gallery.</description>
     </item>
     
     <item>
       <title>Senior thesis help</title>
-      <link>https://penrose.whitman.edu/blog/senior-thesis-help/</link>
+      <link>https://library.whitman.edu/blog/senior-thesis-help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/senior-thesis-help/</guid>
+      <guid>https://library.whitman.edu/blog/senior-thesis-help/</guid>
       <description>Are you writing a thesis? Librarians are here to help! Want to make a research plan? Unsure about the difference between an annotated bibliography and a literature review?</description>
     </item>
     
     <item>
       <title>Sexual Assault Awareness Month Display</title>
-      <link>https://penrose.whitman.edu/blog/sexual-assault-awareness-month-display/</link>
+      <link>https://library.whitman.edu/blog/sexual-assault-awareness-month-display/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/sexual-assault-awareness-month-display/</guid>
+      <guid>https://library.whitman.edu/blog/sexual-assault-awareness-month-display/</guid>
       <description>April is Sexual Assault Awareness Month, a campaign to raise public awareness about sexual violence and educate communities on how to prevent it. On the books stacks by the library entrance you can find a range of materials relating to this topic.</description>
     </item>
     
     <item>
       <title>Sharpen your research skills with a library class!
 </title>
-      <link>https://penrose.whitman.edu/blog/sharpen-your-research-skills-with-a-library-class/</link>
+      <link>https://library.whitman.edu/blog/sharpen-your-research-skills-with-a-library-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/sharpen-your-research-skills-with-a-library-class/</guid>
+      <guid>https://library.whitman.edu/blog/sharpen-your-research-skills-with-a-library-class/</guid>
       <description>Do you want to learn how to find the best resources for your papers and projects? Would you like to navigate Penrose Library’s databases with ease?</description>
     </item>
     
     <item>
       <title>Spring 2017 &amp;#8212; Welcome Back!</title>
-      <link>https://penrose.whitman.edu/blog/spring-2017-welcome-back/</link>
+      <link>https://library.whitman.edu/blog/spring-2017-welcome-back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/spring-2017-welcome-back/</guid>
+      <guid>https://library.whitman.edu/blog/spring-2017-welcome-back/</guid>
       <description>Welcome back to campus! What&amp;rsquo;s been happening over the break? Well&amp;hellip;
 We&amp;rsquo;ve had some (more) snow! Compare and contrast with a few wintry pictures from yesteryear, held in the Whitman College and Northwest Archives collections.</description>
     </item>
     
     <item>
       <title>Submitting Your Honors Thesis</title>
-      <link>https://penrose.whitman.edu/blog/submitting-your-honors-thesis/</link>
+      <link>https://library.whitman.edu/blog/submitting-your-honors-thesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/submitting-your-honors-thesis/</guid>
+      <guid>https://library.whitman.edu/blog/submitting-your-honors-thesis/</guid>
       <description>As we reach the finishing line for honors theses, the library wants to remind you of a few tips and tricks to ensure an easy submission:</description>
     </item>
     
     <item>
       <title>Submitting your honors thesis</title>
-      <link>https://penrose.whitman.edu/blog/submitting-your-honors-thesis-2/</link>
+      <link>https://library.whitman.edu/blog/submitting-your-honors-thesis-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/submitting-your-honors-thesis-2/</guid>
+      <guid>https://library.whitman.edu/blog/submitting-your-honors-thesis-2/</guid>
       <description>As we are a week out from honors theses being due, the library wants to remind you of a few things to ensure an easy submission.</description>
     </item>
     
     <item>
       <title>Summer Read 2016: The Empathy Exams by Leslie Jamison</title>
-      <link>https://penrose.whitman.edu/blog/summer-read-2016-the-empathy-exams-by-leslie-jamison/</link>
+      <link>https://library.whitman.edu/blog/summer-read-2016-the-empathy-exams-by-leslie-jamison/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/summer-read-2016-the-empathy-exams-by-leslie-jamison/</guid>
+      <guid>https://library.whitman.edu/blog/summer-read-2016-the-empathy-exams-by-leslie-jamison/</guid>
       <description>Every year, new students entering Whitman College read a book in common before they arrive on campus, attend a faculty-led panel about the book, and take part in discussions of it during Orientation Week.</description>
     </item>
     
     <item>
       <title>Take a library class to become a better researcher!
 </title>
-      <link>https://penrose.whitman.edu/blog/take-a-library-class-to-become-a-better-researcher/</link>
+      <link>https://library.whitman.edu/blog/take-a-library-class-to-become-a-better-researcher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/take-a-library-class-to-become-a-better-researcher/</guid>
+      <guid>https://library.whitman.edu/blog/take-a-library-class-to-become-a-better-researcher/</guid>
       <description>Do you want to know how to find the best resources for your papers and assignments? Would you like to navigate the Library’s resources with ease?</description>
     </item>
     
     <item>
       <title>Talk Like a Pirate Day 2016</title>
-      <link>https://penrose.whitman.edu/blog/talk-like-a-pirate-day-2016/</link>
+      <link>https://library.whitman.edu/blog/talk-like-a-pirate-day-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/talk-like-a-pirate-day-2016/</guid>
+      <guid>https://library.whitman.edu/blog/talk-like-a-pirate-day-2016/</guid>
       <description>Arrrrr! September 19th is Talk Like A Pirate Day. The holiday, invented by John “Ol’ Chumbucket” Baur and Mark “Cap’n Slappy” Summers, was popularized in a 2002 column by Dave Barry.</description>
     </item>
     
     <item>
       <title>The Confluence Project</title>
-      <link>https://penrose.whitman.edu/blog/the-confluence-project/</link>
+      <link>https://library.whitman.edu/blog/the-confluence-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/the-confluence-project/</guid>
+      <guid>https://library.whitman.edu/blog/the-confluence-project/</guid>
       <description>Find out about Penrose Library’s role in conserving the Confluence Project! This important collaboration has been featured in the latest Whitman magazine. Read more here. Photo courtesy of Confluence.</description>
     </item>
     
     <item>
       <title>The Learning Commons &amp;#8212; Peer Tutoring at Penrose Library</title>
-      <link>https://penrose.whitman.edu/blog/the-learning-commons-peer-tutoring-at-penrose-library/</link>
+      <link>https://library.whitman.edu/blog/the-learning-commons-peer-tutoring-at-penrose-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/the-learning-commons-peer-tutoring-at-penrose-library/</guid>
+      <guid>https://library.whitman.edu/blog/the-learning-commons-peer-tutoring-at-penrose-library/</guid>
       <description>Tutors from the Center fOr Writing and Speaking (COWS), the Academic Resource Center (ARC), the Student Engagement Center (SEC), and Penrose Library are available Sunday through Wednesday from 8 to 10 pm in the Learning Commons area just past the Technology Help Desk on the main floor of Penrose Library.</description>
     </item>
     
     <item>
       <title>The Learning Commons Reopens</title>
-      <link>https://penrose.whitman.edu/blog/the-learning-commons-reopens/</link>
+      <link>https://library.whitman.edu/blog/the-learning-commons-reopens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/the-learning-commons-reopens/</guid>
+      <guid>https://library.whitman.edu/blog/the-learning-commons-reopens/</guid>
       <description>The Learning Commons -- Drop-In Peer Tutoring at Penrose Library On Tuesday, February 9, at 8 pm, join us at Penrose Library for a reception celebrating the Spring 2016 reopening of the Learning Commons.</description>
     </item>
     
     <item>
       <title>The Office of LGBTQIA&#43; and PRISM&amp;#8217;s Media Guide</title>
-      <link>https://penrose.whitman.edu/blog/the-office-of-lgbtqia-and-prisms-media-guide/</link>
+      <link>https://library.whitman.edu/blog/the-office-of-lgbtqia-and-prisms-media-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/the-office-of-lgbtqia-and-prisms-media-guide/</guid>
+      <guid>https://library.whitman.edu/blog/the-office-of-lgbtqia-and-prisms-media-guide/</guid>
       <description>The Office of LGBTQIA+ and the student group P.R.I.S.M. have put together a list of digital media with LGBTQIA+ characters, actors, or creators. If you’re looking for something to watch or listen to, this can be a great way to find media with positive LGBTQIA+ representation.</description>
     </item>
     
     <item>
       <title>Thinking Digitally class concludes</title>
-      <link>https://penrose.whitman.edu/blog/thinking-digitally-class-concludes/</link>
+      <link>https://library.whitman.edu/blog/thinking-digitally-class-concludes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/thinking-digitally-class-concludes/</guid>
+      <guid>https://library.whitman.edu/blog/thinking-digitally-class-concludes/</guid>
       <description>Three librarians &amp;ndash; Melissa Salrin, Ben Murphy, and Amy Blau &amp;ndash; were part of the instructional staff for a new team-taught course, Interdisciplinary Studies 230: Thinking Digitally.</description>
     </item>
     
     <item>
       <title>Tips &amp;amp; Tricks: Citation Managers</title>
-      <link>https://penrose.whitman.edu/blog/tips-tricks-citation-managers/</link>
+      <link>https://library.whitman.edu/blog/tips-tricks-citation-managers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/tips-tricks-citation-managers/</guid>
+      <guid>https://library.whitman.edu/blog/tips-tricks-citation-managers/</guid>
       <description>Do you need help managing mountains of research sources and wrangling them into bibliographies? If so, or if you need help keeping track of your research, you should find yourself a citation manager.</description>
     </item>
     
     <item>
       <title>Tips &amp;amp; Tricks: Sherlock e-Shelf</title>
-      <link>https://penrose.whitman.edu/blog/tips-tricks-sherlock-e-shelf/</link>
+      <link>https://library.whitman.edu/blog/tips-tricks-sherlock-e-shelf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/tips-tricks-sherlock-e-shelf/</guid>
+      <guid>https://library.whitman.edu/blog/tips-tricks-sherlock-e-shelf/</guid>
       <description>You may already know that you can see what you have checked out from the Library and when it is due by clicking on the “My Account” link in the top right corner of the web page when you are signed in to Sherlock.</description>
     </item>
     
     <item>
       <title>Trans Awareness Week Display</title>
-      <link>https://penrose.whitman.edu/blog/trans-awareness-week-display/</link>
+      <link>https://library.whitman.edu/blog/trans-awareness-week-display/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/trans-awareness-week-display/</guid>
+      <guid>https://library.whitman.edu/blog/trans-awareness-week-display/</guid>
       <description>November 12 - 19 marks Transgender Awareness Week, a time to increase visibility of transgender and gender non-conforming communities and the issues they face. On the short book stacks by the library entrance, you can find a selection of materials exploring transgender history, lives, and resources.</description>
     </item>
     
     <item>
       <title>Walla Walla “Watches” the World Series
 </title>
-      <link>https://penrose.whitman.edu/blog/walla-walla-watches-the-world-series/</link>
+      <link>https://library.whitman.edu/blog/walla-walla-watches-the-world-series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/walla-walla-watches-the-world-series/</guid>
+      <guid>https://library.whitman.edu/blog/walla-walla-watches-the-world-series/</guid>
       <description>Post by Ben Murphy
 Librarians and student workers have been busy moving some collections of digitized images to ARMINDA, our institutional repository. We’ve just finished our first large chunk of this project, the Walla Walla Photographs Collection.</description>
     </item>
@@ -1042,95 +1042,95 @@ Librarians and student workers have been busy moving some collections of digitiz
     <item>
       <title>Want to be a better researcher? Take a library class!
 </title>
-      <link>https://penrose.whitman.edu/blog/want-to-be-a-better-researcher-take-a-library-class-4/</link>
+      <link>https://library.whitman.edu/blog/want-to-be-a-better-researcher-take-a-library-class-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/want-to-be-a-better-researcher-take-a-library-class-4/</guid>
+      <guid>https://library.whitman.edu/blog/want-to-be-a-better-researcher-take-a-library-class-4/</guid>
       <description>Do you want to learn how to navigate Penrose Library’s databases with ease? And find the best resources for your papers and projects? Take a library class!</description>
     </item>
     
     <item>
       <title>Washington State Park Free Day, March 19</title>
-      <link>https://penrose.whitman.edu/blog/washington-state-park-free-day-march-19/</link>
+      <link>https://library.whitman.edu/blog/washington-state-park-free-day-march-19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/washington-state-park-free-day-march-19/</guid>
+      <guid>https://library.whitman.edu/blog/washington-state-park-free-day-march-19/</guid>
       <description>If your spring break plans include outdoor recreation, know that on Sunday March 19, Washington State Parks offer a free day when a Discover Pass is not required to visit a state park, in honor of the 104th birthday of the State Parks.</description>
     </item>
     
     <item>
       <title>Welcome back from Penrose Library!</title>
-      <link>https://penrose.whitman.edu/blog/welcome-back-from-penrose-library/</link>
+      <link>https://library.whitman.edu/blog/welcome-back-from-penrose-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/welcome-back-from-penrose-library/</guid>
+      <guid>https://library.whitman.edu/blog/welcome-back-from-penrose-library/</guid>
       <description>Change in Operations
 We know there are a lot of changes happening this semester, and we’ve worked all summer to meet your research needs as best as possible whether you’re in Walla Walla or elsewhere.</description>
     </item>
     
     <item>
       <title>Welcome back!</title>
-      <link>https://penrose.whitman.edu/blog/welcome-back/</link>
+      <link>https://library.whitman.edu/blog/welcome-back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/welcome-back/</guid>
+      <guid>https://library.whitman.edu/blog/welcome-back/</guid>
       <description>Penrose Library made several changes over the summer and we want to keep you informed. You may be wondering:
 Where are the board games and popular literature collections?</description>
     </item>
     
     <item>
       <title>Welcome back! Spring Semester 2016</title>
-      <link>https://penrose.whitman.edu/blog/welcome-back-spring-semester-2016/</link>
+      <link>https://library.whitman.edu/blog/welcome-back-spring-semester-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/welcome-back-spring-semester-2016/</guid>
+      <guid>https://library.whitman.edu/blog/welcome-back-spring-semester-2016/</guid>
       <description>Penrose Library staff would like to remind everyone about our hours going into the Spring 2016 semester.
 Saturday and Sunday, January 16 and 17: The Library will be open from 9 am to 5 pm.</description>
     </item>
     
     <item>
       <title>Welcome to Sherlock!</title>
-      <link>https://penrose.whitman.edu/blog/welcome-to-sherlock/</link>
+      <link>https://library.whitman.edu/blog/welcome-to-sherlock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/welcome-to-sherlock/</guid>
+      <guid>https://library.whitman.edu/blog/welcome-to-sherlock/</guid>
       <description>When Penrose Library switched to its new catalog system, Sherlock, on January 8, 2015, it was a momentous occasion for library staff here at Whitman, who have been working hard since last June to implement this change.</description>
     </item>
     
     <item>
       <title>Whitman Coronavirus Stories: Documenting Our Lives during the COVID-19 Pandemic</title>
-      <link>https://penrose.whitman.edu/blog/whitman-coronavirus-stories/</link>
+      <link>https://library.whitman.edu/blog/whitman-coronavirus-stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/whitman-coronavirus-stories/</guid>
+      <guid>https://library.whitman.edu/blog/whitman-coronavirus-stories/</guid>
       <description>In collaboration with students in Library 160: Documentation and Representation in Archives, the Whitman College and Northwest Archives is creating a digital archive of the Whitman community&#39;s experiences during the COVID-19 pandemic.</description>
     </item>
     
     <item>
       <title>Whitman faculty and open access publishing
 </title>
-      <link>https://penrose.whitman.edu/blog/whitman-faculty-and-open-access-publishing/</link>
+      <link>https://library.whitman.edu/blog/whitman-faculty-and-open-access-publishing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/whitman-faculty-and-open-access-publishing/</guid>
+      <guid>https://library.whitman.edu/blog/whitman-faculty-and-open-access-publishing/</guid>
       <description>Last year for Open Access Week, we profiled a few Whitman professors who are writing and using Open Educational Resources in their classes. This year we’re talking with professors who have published works of scholarship in Open Access journals.</description>
     </item>
     
     <item>
       <title>Whitman staff access @ Penrose</title>
-      <link>https://penrose.whitman.edu/blog/whitman-staff-access-penrose/</link>
+      <link>https://library.whitman.edu/blog/whitman-staff-access-penrose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/whitman-staff-access-penrose/</guid>
+      <guid>https://library.whitman.edu/blog/whitman-staff-access-penrose/</guid>
       <description>All Whitman College staff have access to Penrose Library and the Whitman College and Northwest Archives throughout the year. Use Sherlock, our interface to Penrose Library collections, as well as items held in Summit libraries and many online articles in our subscription databases, to discover interesting and exciting materials!</description>
     </item>
     
     <item>
       <title>Whitman Undergraduate Conference 2018</title>
-      <link>https://penrose.whitman.edu/blog/whitman-undergraduate-conference-2018/</link>
+      <link>https://library.whitman.edu/blog/whitman-undergraduate-conference-2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://penrose.whitman.edu/blog/whitman-undergraduate-conference-2018/</guid>
+      <guid>https://library.whitman.edu/blog/whitman-undergraduate-conference-2018/</guid>
       <description>The 20th Annual Whitman Undergraduate Conference will take place on April 10, 2018. Penrose Library and the Whitman College and Northwest Archives want to help students share their Undergraduate Conference research with the Whitman Community and beyond!</description>
     </item>
     
