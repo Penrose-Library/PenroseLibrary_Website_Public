@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://library.whitman.edu/post/</loc>
+    <lastmod>2021-08-13T14:01:01-07:00</lastmod>
+  </url><url>
     <loc>https://library.whitman.edu/blog/this-is-the-title/</loc>
     <lastmod>2021-08-13T14:01:01-07:00</lastmod>
   </url><url>
@@ -88,9 +91,6 @@
   </url><url>
     <loc>https://library.whitman.edu/blog/banned-books-week-2017/</loc>
     <lastmod>2021-08-09T17:04:27-07:00</lastmod>
-  </url><url>
-    <loc>https://library.whitman.edu/post/</loc>
-    <lastmod>2021-04-30T14:22:17-07:00</lastmod>
   </url><url>
     <loc>https://library.whitman.edu/blog/books-for-winter-break-reading/</loc>
     <lastmod>2021-08-09T17:04:27-07:00</lastmod>
