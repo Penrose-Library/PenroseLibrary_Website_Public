@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://penrose.whitman.edu/about_the_library/</loc>
+    <lastmod>2021-08-16T15:26:10-07:00</lastmod>
+  </url><url>
     <loc>https://penrose.whitman.edu/pages/</loc>
-    <lastmod>2021-08-13T15:56:57-07:00</lastmod>
+    <lastmod>2021-08-16T15:26:10-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/map/</loc>
     <lastmod>2021-08-11T15:50:36-07:00</lastmod>
@@ -15,7 +18,7 @@
     <lastmod>2021-07-29T13:30:00-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/contact_librarian/</loc>
-    <lastmod>2021-08-13T15:56:57-07:00</lastmod>
+    <lastmod>2021-08-16T15:26:10-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/course_reserves/</loc>
     <lastmod>2021-08-12T17:05:57-07:00</lastmod>
@@ -32,14 +35,11 @@
     <loc>https://penrose.whitman.edu/blog/reserving-space-in-the-library/</loc>
     <lastmod>2021-08-09T17:04:27-07:00</lastmod>
   </url><url>
-    <loc>https://penrose.whitman.edu/about_the_library/</loc>
-    <lastmod>2021-08-13T15:36:20-07:00</lastmod>
-  </url><url>
     <loc>https://penrose.whitman.edu/explore_collections/</loc>
     <lastmod>2021-05-26T10:48:22-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/faculty_services/</loc>
-    <lastmod>2021-08-13T15:56:57-07:00</lastmod>
+    <lastmod>2021-08-16T15:26:10-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/</loc>
     <lastmod>2021-08-13T15:03:46-07:00</lastmod>
