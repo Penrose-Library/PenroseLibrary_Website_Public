@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Penrose Library, Whitman College, Walla Walla, WA</title>
-    <link>https://library.whitman.edu/pages/</link>
+    <link>https://penrose.whitman.edu/pages/</link>
     <description>Recent content in Pages on Penrose Library, Whitman College, Walla Walla, WA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://library.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penrose Library Floor Map</title>
-      <link>https://library.whitman.edu/map/</link>
+      <link>https://penrose.whitman.edu/map/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/map/</guid>
+      <guid>https://penrose.whitman.edu/map/</guid>
       <description>First Floor      Second Floor      Third Floor      Fourth Floor      </description>
     </item>
     
     <item>
       <title>Library Services &amp; FAQ</title>
-      <link>https://library.whitman.edu/library_services/</link>
+      <link>https://penrose.whitman.edu/library_services/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/library_services/</guid>
+      <guid>https://penrose.whitman.edu/library_services/</guid>
       <description>Search Library FAQ   I have a question about…  Accessibility of Library Resources Archives &amp;amp; Special Collections Articles Books Circulation / Borrowing items Citations Copyright Guidance Computers &amp;amp; Printing Using Databases Faculty Services General Information Interlibrary Loans (Borrow items from other libraries) Research Sherlock (Library Catalog)   Frequently Used Forms  General Library Materials Gift Form Honors Thesis related Forms Recording Consent &amp;amp; Copyright Release Form Senior Privileges Form Special Collections Materials Gift Form Suggest a Purchase Form  Library Policies  About the Library Penrose Library: An Educational Partner Penrose Mission and Values Statement Library Use Policy Gifts to Penrose Library Student Employment Library Accessibility Statement Library Newsletter Location and Directions   </description>
     </item>
     
     <item>
       <title>Recently acquired Items</title>
-      <link>https://library.whitman.edu/newbook/</link>
+      <link>https://penrose.whitman.edu/newbook/</link>
       <pubDate>Fri, 16 Jul 2021 21:58:53 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/newbook/</guid>
+      <guid>https://penrose.whitman.edu/newbook/</guid>
       <description>#text-book-jacketimg{ height:15rem; } .jacket-title{ padding:0; bottom:auto; position:relative; }   $(function(){ $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/newitem/newbooklist_jsonfeed.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39;, cache:false, }).done(function( bibarray ) { $.each(bibarray, function(key,value) { var display1=&#39;&#39;+ value.</description>
     </item>
     
     <item>
       <title>Contact a Librarian</title>
-      <link>https://library.whitman.edu/contact_librarian/</link>
+      <link>https://penrose.whitman.edu/contact_librarian/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/contact_librarian/</guid>
+      <guid>https://penrose.whitman.edu/contact_librarian/</guid>
       <description>$(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
 &#39;); }, success: function(d) { $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;&#39; + d.</description>
     </item>
     
     <item>
       <title>Course Reserves</title>
-      <link>https://library.whitman.edu/course_reserves/</link>
+      <link>https://penrose.whitman.edu/course_reserves/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/course_reserves/</guid>
+      <guid>https://penrose.whitman.edu/course_reserves/</guid>
       <description>Enter course number, instructor&amp;rsquo;s name, or choose from list below.
  Search   List of Courses    Course Instructor            const Strings = {}; Strings.</description>
     </item>
     
     <item>
       <title>Library Guides</title>
-      <link>https://library.whitman.edu/guides/</link>
+      <link>https://penrose.whitman.edu/guides/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/guides/</guid>
+      <guid>https://penrose.whitman.edu/guides/</guid>
       <description>Subject Guides: Resources for every area of study    springshare_widget_config_1625005695222 = { path: &#39;guides&#39; };!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&#34;://lgapi-us.libapps.com/widgets.php?site_id=689&amp;widget_type=1&amp;search_terms=&amp;search_match=2&amp;sort_by=name&amp;list_format=1&amp;drop_text=Select+a+Guide...&amp;output_format=1&amp;load_type=2&amp;enable_description=0&amp;enable_group_search_limit=0&amp;enable_subject_search_limit=0&amp;guide_types%5B0%5D=3&amp;widget_title=Guide+List&amp;widget_height=250&amp;widget_width=100%25&amp;widget_link_color=2954d1&amp;widget_embed_type=1&amp;num_results=0&amp;enable_more_results=1&amp;window_target=2&amp;config_id=1625005695222&#34;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#34;script&#34;,&#34;s-lg-widget-script-1625005695222&#34;);   Course Guides: Resources for specific classes    springshare_widget_config_1625005740371 = { path: &#39;guides&#39; };!</description>
     </item>
     
     <item>
       <title>Database A-Z</title>
-      <link>https://library.whitman.edu/a_z_list/</link>
+      <link>https://penrose.whitman.edu/a_z_list/</link>
       <pubDate>Mon, 21 Jun 2021 21:58:53 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/a_z_list/</guid>
+      <guid>https://penrose.whitman.edu/a_z_list/</guid>
       <description>springshare_widget_config_1622747636763 = { path: &#39;assets&#39; }; Search for database Search All Subjects Anthropology  Archives  Art  Art History &amp;amp; Visual Culture Studies  Asian Studies  Astronomy  Biological Sciences  Chemistry  Classics Economics  English  Environmental Studies  Film &amp;amp; Media Studies  Foreign Languages and Literatures French  Gender Studies  General Studies  Geology  German  History Information for Seniors Library Mathematics Music Philosophy Physics Politics Psychology Race and Ethnic Studies Religion Research Rhetoric, Writing, and Public Discourse Sociology  Hispanic Studies Theatre &amp;amp; Dance       function getParameterByName(name, url = window.</description>
     </item>
     
     <item>
       <title>About the Library</title>
-      <link>https://library.whitman.edu/about_the_library/</link>
+      <link>https://penrose.whitman.edu/about_the_library/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/about_the_library/</guid>
+      <guid>https://penrose.whitman.edu/about_the_library/</guid>
       <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.</description>
     </item>
     
     <item>
       <title>Explore our Collections</title>
-      <link>https://library.whitman.edu/explore_collections/</link>
+      <link>https://penrose.whitman.edu/explore_collections/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/explore_collections/</guid>
+      <guid>https://penrose.whitman.edu/explore_collections/</guid>
       <description>Collection Areas Northwest Manuscripts Collection WCNA acknowledges that we exist upon the traditional homeland of the Cayuse, Umatilla, Walla Walla and Nez Perce Peoples. WCNA collects and solicits donations of manuscripts and records from individuals and organizations of significance to the history and present of the Walla Walla region and the inland Pacific Northwest.</description>
     </item>
     
     <item>
       <title>Faculty Services</title>
-      <link>https://library.whitman.edu/faculty_services/</link>
+      <link>https://penrose.whitman.edu/faculty_services/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://library.whitman.edu/faculty_services/</guid>
+      <guid>https://penrose.whitman.edu/faculty_services/</guid>
       <description>In brief, Top 10 Things for Faculty to know about Penrose Library
 Library Instruction As detailed in the Penrose Library Mission and Guiding Principles and our teaching philosophy and learning goals, the Instructional and Research Services department guides students through the research process, helping them develop critical thinking skills to conduct research, synthesize information, and communicate the results of intellectual inquiry.</description>
     </item>
