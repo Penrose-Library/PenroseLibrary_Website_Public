@@ -6,7 +6,16 @@
     <description>Recent content in Pages on Penrose Library, Whitman College, Walla Walla, WA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://penrose.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Library</title>
+      <link>https://penrose.whitman.edu/about_the_library/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://penrose.whitman.edu/about_the_library/</guid>
+      <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.</description>
+    </item>
+    
     <item>
       <title>Penrose Library Floor Map</title>
       <link>https://penrose.whitman.edu/map/</link>
@@ -35,7 +44,7 @@
     </item>
     
     <item>
-      <title>Contact a Librarian</title>
+      <title>Contact Librarians &amp; Staff</title>
       <link>https://penrose.whitman.edu/contact_librarian/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -70,15 +79,6 @@
       
       <guid>https://penrose.whitman.edu/a_z_list/</guid>
       <description>springshare_widget_config_1622747636763 = { path: &#39;assets&#39; }; Search for database Search All Subjects Anthropology  Archives  Art  Art History &amp;amp; Visual Culture Studies  Asian Studies  Astronomy  Biological Sciences  Chemistry  Classics Economics  English  Environmental Studies  Film &amp;amp; Media Studies  Foreign Languages and Literatures French  Gender Studies  General Studies  Geology  German  History Information for Seniors Library Mathematics Music Philosophy Physics Politics Psychology Race and Ethnic Studies Religion Research Rhetoric, Writing, and Public Discourse Sociology  Hispanic Studies Theatre &amp;amp; Dance       function getParameterByName(name, url = window.</description>
-    </item>
-    
-    <item>
-      <title>About the Library</title>
-      <link>https://penrose.whitman.edu/about_the_library/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://penrose.whitman.edu/about_the_library/</guid>
-      <description>Penrose Library: An Educational Partner Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.</description>
     </item>
     
     <item>
