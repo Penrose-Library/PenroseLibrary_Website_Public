@@ -40,7 +40,13 @@
   
     <link rel="stylesheet" href="/css/custom.css">
   
-
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.css">
+  
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick-theme.min.css">
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.js"></script>
   
   
     
@@ -371,7 +377,21 @@
 </fieldset>
 </form>
 </div>
-<div id="announcement">Both the library and archives are only open to current faculty, student, and staff because of local health conditions. Swipe access with a Whitman ID required.</div>
+<div id="announcement">
+<div class="accessible-carousel">
+  <div class="accessible-carousel-element"><p>Both the library and archives are only open to current faculty, student, and staff because of local health conditions. Swipe access with a Whitman ID required.</p></div>
+  <div class="accessible-carousel-element"><p>Library DEI statements are available at "About Library" page.</p></div>
+</div>
+<script>
+  $(document).ready(function() {
+  $('.accessible-carousel').slick({
+  autoplay: true,
+  autoplaySpeed: 9000,
+  dots: false
+  }); 
+});
+</script>
+</div>
 </div>
 <div class="second-section-main">
 <div class="bootstrap-wrapper">
