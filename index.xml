@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://library.whitman.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact Library Staff</title>
+      <link>https://library.whitman.edu/contact_librarystaff/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/contact_librarystaff/</guid>
+      <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
+&#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
+    </item>
+    
+    <item>
       <title>Penrose Library End-of-Semester Hours</title>
       <link>https://library.whitman.edu/blog/penrose-library-end-of-semester-hours/</link>
       <pubDate>Fri, 03 Dec 2021 23:23:10 +0000</pubDate>
@@ -72,16 +82,6 @@ We missed you at Penrose and we’re excited to see everyone back this fall. Som
       
       <guid>https://library.whitman.edu/newbook/</guid>
       <description>#text-book-jacketimg{ height:15rem; } .jacket-title{ padding:0; bottom:auto; position:relative; }   $(function(){ $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/newitem/newbooklist_jsonfeed.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39;, cache:false, }).done(function( bibarray ) { $.each(bibarray, function(key,value) { var display1=&#39;&#39;+ value.</description>
-    </item>
-    
-    <item>
-      <title>Contact Librarians &amp; Staff</title>
-      <link>https://library.whitman.edu/contact_librarian/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://library.whitman.edu/contact_librarian/</guid>
-      <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
-&#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
     </item>
     
     <item>
