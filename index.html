@@ -379,7 +379,22 @@
         </div>
     </form>
 </div>
-<div id="announcement"></div>
+<div id="announcement">
+<div class="accessible-carousel">
+  <div class="accessible-carousel-element"><p>Both the library and archives are only open to current faculty, student, and staff because of local health conditions. Swipe access with a Whitman ID required.</p></div>
+</div>
+<script>
+  $(document).ready(function() {
+ if($('div.accessible-carousel-element').length>1){
+    $('.accessible-carousel').slick({
+    autoplay: true,
+    autoplaySpeed: 9000,
+    dots: false
+    }); 
+  }
+});
+</script>
+</div>
 </div>
 <div class="second-section-main">
 <div class="bootstrap-wrapper">
