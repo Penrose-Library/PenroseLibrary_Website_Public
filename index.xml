@@ -8,6 +8,64 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://library.whitman.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Open Education Week</title>
+      <link>https://library.whitman.edu/blog/2022-03-08-open-education-week/</link>
+      <pubDate>Tue, 08 Mar 2022 23:37:04 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/blog/2022-03-08-open-education-week/</guid>
+      <description>March 7-11, 2022 is Open Education Week, a time to raise awareness about Open Educational Resources. An open educational resource (OER) is free to access and use, and is licensed so that it can be shared and modified.</description>
+    </item>
+    
+    <item>
+      <title>Light Therapy Lamps Available</title>
+      <link>https://library.whitman.edu/blog/2022-01-28-light-therapy-lamps-available/</link>
+      <pubDate>Thu, 27 Jan 2022 23:42:42 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/blog/2022-01-28-light-therapy-lamps-available/</guid>
+      <description>Feeling the “winter blues”? Penrose Library houses five light therapy lamps for those who feel light deprived or are suffering from Seasonal Affective Disorder (SAD). Our “happy lights” provide daytime light intensity by replicating early morning or late afternoon spring-time light levels.</description>
+    </item>
+    
+    <item>
+      <title>NEW Spring 2022 Library Hours</title>
+      <link>https://library.whitman.edu/blog/2022-01-19-new-spring-2022-library-hours/</link>
+      <pubDate>Wed, 19 Jan 2022 16:47:48 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/blog/2022-01-19-new-spring-2022-library-hours/</guid>
+      <description>We are delighted to announce expanded Penrose Library hours for Spring semester. Generous financial support from the Whitman College administration has provided us with the means to staff the building for the following schedule: Mon - 7:30 am - 1:00 am</description>
+    </item>
+    
+    <item>
+      <title>Winter Break Hours</title>
+      <link>https://library.whitman.edu/blog/winter-break-hours/</link>
+      <pubDate>Fri, 17 Dec 2021 23:29:17 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/blog/winter-break-hours/</guid>
+      <description>Penrose will observe the following hours for Winter Break:
+Saturday, Dec. 18 - Sunday, Dec. 19: Closed
+Monday, Dec. 20 - Thursday, Dec. 23: 9 a.</description>
+    </item>
+    
+    <item>
+      <title>Contact Library Staff</title>
+      <link>https://library.whitman.edu/contact_librarystaff/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/contact_librarystaff/</guid>
+      <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
+&#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
+    </item>
+    
+    <item>
+      <title>Penrose Library End-of-Semester Hours</title>
+      <link>https://library.whitman.edu/blog/penrose-library-end-of-semester-hours/</link>
+      <pubDate>Fri, 03 Dec 2021 23:23:10 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/blog/penrose-library-end-of-semester-hours/</guid>
+      <description>Penrose Library will be open for special extended hours for the end of the semester, beginning this Sunday!
+Sunday, Dec. 5: 10 a.m. – 1 a.</description>
+    </item>
+    
+    <item>
       <title>Library End-of-Semester Hours</title>
       <link>https://library.whitman.edu/blog/library-end-of-semester-hours/</link>
       <pubDate>Fri, 03 Dec 2021 23:14:19 +0000</pubDate>
@@ -72,16 +130,6 @@ We missed you at Penrose and we’re excited to see everyone back this fall. Som
       
       <guid>https://library.whitman.edu/newbook/</guid>
       <description>#text-book-jacketimg{ height:15rem; } .jacket-title{ padding:0; bottom:auto; position:relative; }   $(function(){ $.ajax({ url: &#39;https://penroselib-php.herokuapp.com/newitem/newbooklist_jsonfeed.php&#39;, type: &#39;GET&#39;, dataType: &#39;json&#39;, cache:false, }).done(function( bibarray ) { $.each(bibarray, function(key,value) { var display1=&#39;&#39;+ value.</description>
-    </item>
-    
-    <item>
-      <title>Contact Librarians &amp; Staff</title>
-      <link>https://library.whitman.edu/contact_librarian/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://library.whitman.edu/contact_librarian/</guid>
-      <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
-&#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
     </item>
     
     <item>
