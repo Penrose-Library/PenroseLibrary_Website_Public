@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://library.whitman.edu/pages/</loc>
-    <lastmod>2022-05-03T14:47:03-07:00</lastmod>
-  </url><url>
-    <loc>https://library.whitman.edu/test/</loc>
-    <lastmod>2022-05-03T14:47:03-07:00</lastmod>
-  </url><url>
     <loc>https://library.whitman.edu/blog/2022-04-04-thesis-season/</loc>
     <lastmod>2022-04-04T14:22:36-07:00</lastmod>
   </url><url>
@@ -24,6 +18,9 @@
     <lastmod>2021-12-17T15:32:00-08:00</lastmod>
   </url><url>
     <loc>https://library.whitman.edu/contact_librarystaff/</loc>
+    <lastmod>2022-04-18T15:09:17-07:00</lastmod>
+  </url><url>
+    <loc>https://library.whitman.edu/pages/</loc>
     <lastmod>2022-04-18T15:09:17-07:00</lastmod>
   </url><url>
     <loc>https://library.whitman.edu/blog/penrose-library-end-of-semester-hours/</loc>
