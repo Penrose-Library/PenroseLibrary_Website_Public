@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://library.whitman.edu/pages/</loc>
+    <lastmod>2022-09-20T15:26:36-07:00</lastmod>
+  </url><url>
+    <loc>https://library.whitman.edu/staff10things/</loc>
+    <lastmod>2022-09-20T15:26:36-07:00</lastmod>
+  </url><url>
     <loc>https://library.whitman.edu/blog/2022-08-24-take-our-online-tour-and-win-a-prize/</loc>
     <lastmod>2022-08-24T09:13:36-07:00</lastmod>
   </url><url>
@@ -10,9 +16,6 @@
   </url><url>
     <loc>https://library.whitman.edu/deiaactions/</loc>
     <lastmod>2022-06-10T15:26:36-07:00</lastmod>
-  </url><url>
-    <loc>https://library.whitman.edu/pages/</loc>
-    <lastmod>2022-09-15T14:59:09-07:00</lastmod>
   </url><url>
     <loc>https://library.whitman.edu/blog/2022-05-31-summer-hours-and-library-access/</loc>
     <lastmod>2022-05-31T15:51:10-07:00</lastmod>
