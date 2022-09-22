@@ -85,15 +85,6 @@ We are happy to help and/or guide you through every aspect of submitting.</descr
     </item>
     
     <item>
-      <title>NEW Spring 2022 Library Hours</title>
-      <link>https://library.whitman.edu/blog/2022-01-19-new-spring-2022-library-hours/</link>
-      <pubDate>Wed, 19 Jan 2022 16:47:48 +0000</pubDate>
-      
-      <guid>https://library.whitman.edu/blog/2022-01-19-new-spring-2022-library-hours/</guid>
-      <description>We are delighted to announce expanded Penrose Library hours for Spring semester. Generous financial support from the Whitman College administration has provided us with the means to staff the building for the following schedule: Mon - 7:30 am - 1:00 am</description>
-    </item>
-    
-    <item>
       <title>Contact Library Staff</title>
       <link>https://library.whitman.edu/contact_librarystaff/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -101,16 +92,6 @@ We are happy to help and/or guide you through every aspect of submitting.</descr
       <guid>https://library.whitman.edu/contact_librarystaff/</guid>
       <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
 &#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
-    </item>
-    
-    <item>
-      <title>Penrose Library End-of-Semester Hours</title>
-      <link>https://library.whitman.edu/blog/penrose-library-end-of-semester-hours/</link>
-      <pubDate>Fri, 03 Dec 2021 23:23:10 +0000</pubDate>
-      
-      <guid>https://library.whitman.edu/blog/penrose-library-end-of-semester-hours/</guid>
-      <description>Penrose Library will be open for special extended hours for the end of the semester, beginning this Sunday!
-Sunday, Dec. 5: 10 a.m. – 1 a.</description>
     </item>
     
     <item>
