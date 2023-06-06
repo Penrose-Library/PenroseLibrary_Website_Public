@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://library.whitman.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact Library Staff</title>
+      <link>https://library.whitman.edu/contact_librarystaff/</link>
+      <pubDate>Tue, 06 Jun 2023 23:54:00 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/contact_librarystaff/</guid>
+      <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
+&#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
+    </item>
+    
+    <item>
       <title>Please try Sage Campus for us!</title>
       <link>https://library.whitman.edu/blog/2023-05-24-please-try-sage-campus-for-us/</link>
       <pubDate>Wed, 24 May 2023 17:52:05 +0000</pubDate>
@@ -150,16 +160,6 @@ We are happy to help and/or guide you through every aspect of submitting.</descr
       
       <guid>https://library.whitman.edu/blog/2022-01-28-light-therapy-lamps-available/</guid>
       <description>Feeling the “winter blues”? Penrose Library houses five light therapy lamps for those who feel light deprived or are suffering from Seasonal Affective Disorder (SAD). Our “happy lights” provide daytime light intensity by replicating early morning or late afternoon spring-time light levels.</description>
-    </item>
-    
-    <item>
-      <title>Contact Library Staff</title>
-      <link>https://library.whitman.edu/contact_librarystaff/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://library.whitman.edu/contact_librarystaff/</guid>
-      <description>a{ word-break: break-all; }  $(document).ready(function(e) { $(&#39;#s-la-askform-submit-21757&#39;).click(function(e) { $(&#39;div.preloader-wrapper&#39;).show(); $.ajax({ url: &#34;https://api2.libanswers.com/1.0/form/submit&#34;, data: $(&#39;#s-la-askform-form_21757&#39;).serialize(), beforeSend : function (){ $(&#39;#s-la-askform-form_21757&#39;).hide(); $(&#39;div#result&#39;).addClass(&#39;site-error&#39;); $(&#39;div#result&#39;).html(&#39;Submitting....
-&#39;); }, success: function(d) { $(&#39;div#result&#39;).</description>
     </item>
     
     <item>
