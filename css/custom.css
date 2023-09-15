@@ -22,6 +22,10 @@
   display: block;
 }
 
+button {
+    font-size: 0.9rem;
+}
+
 .card-button {
   background-color: #e7e7e7;
   border: none;
