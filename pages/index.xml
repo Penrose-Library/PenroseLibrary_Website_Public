@@ -6,7 +6,16 @@
     <description>Recent content in Pages on Penrose Library, Whitman College, Walla Walla, WA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2024 19:58:41 +0000</lastBuildDate><atom:link href="https://library.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 21:22:34 +0000</lastBuildDate><atom:link href="https://library.whitman.edu/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EZProxy Help page</title>
+      <link>https://library.whitman.edu/ezphelp/</link>
+      <pubDate>Mon, 28 Apr 2025 21:22:34 +0000</pubDate>
+      
+      <guid>https://library.whitman.edu/ezphelp/</guid>
+      <description>We recently changed the way we link to materials to ensure access when users are not on Whitman Secure for their internet connection. There are still some lingering issues and you may see 404 errors that say you are not able to connect to ezproxy.</description>
+    </item>
+    
     <item>
       <title>Accessibility Information</title>
       <link>https://library.whitman.edu/accessibility/</link>
