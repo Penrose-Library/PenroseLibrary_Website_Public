@@ -45,13 +45,8 @@
 		cache: true,
 		dataType: 'json'
 	})
-	.done(function(openingtime) {
-	    let summary = openingtime.items[openingtime.items.length - 1]['summary'];
-	    let formattedSummary = summary.split(';').map(item => item.trim()).join('<br>');
-	
-	    $('#today').html(
-	        formattedSummary + '<br><a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">View Full Calendar</a>'
-	    );
+	.done(function( openingtime ) {
+		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+openingtime.items[openingtime.items.length - 1]['summary']+"</a>");
 	});
 
 var librarian = { 
