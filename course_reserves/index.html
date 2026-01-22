@@ -451,26 +451,25 @@ $(document).ready(function(e) {
 								$('#loading').html('<p></p>');
 								for(var prop in msg){
 								var arr = $.map(msg[prop].instructor, function(el) { return el; });
-<pre><code>                                sname=' ';
-                            if(arr.length==1){
-                                sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
-                            }
-                            if(arr.length&gt;=2){
-                                sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);
-                            }
-                             var output='&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://sherlock.whitman.edu/discovery/search?tab=default_tab&amp;search_scope=whitman_cr&amp;vid=01ALLIANCE_WHITC:WHITC_NEW&amp;mode=advanced&amp;offset=0&amp;query=course_code,contains,'+msg[prop].code+'&quot;&gt;'+msg[prop].code+'&lt;/a&gt;&lt;/td&gt;&lt;td&gt;'+msg[prop].name+'&lt;/td&gt;&lt;td&gt;'+sname+'&lt;/td&gt;&lt;/tr&gt;';
-                             $('#tbd-course').append(output);
-                            }
-                         });
-$(&quot;#primoQueryTemp&quot;).change(function(){
-        $(&quot;#primoQuery&quot;).val(&quot;any,contains,&quot; + $(&quot;#primoQueryTemp&quot;).val());
-})
-$('#search-button').click(function(){
-	$('#simple').submit();
+									sname=' ';
+								if(arr.length==1){
+									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
+								}
+								if(arr.length>=2){
+									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);
+								}
+								 var output='<tr><td><a href="https://sherlock.whitman.edu/discovery/search?tab=default_tab&search_scope=whitman_cr&vid=01ALLIANCE_WHITC:WHITC_NEW&mode=advanced&offset=0&query=course_code,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+msg[prop].name+'</td><td>'+sname+'</td></tr>';
+								 $('#tbd-course').append(output);
+								}
+   							 });
+	$("#primoQueryTemp").change(function(){
+			$("#primoQuery").val("any,contains," + $("#primoQueryTemp").val());
+	})
+	$('#search-button').click(function(){
+		$('#simple').submit();
+	});
 });
-</code></pre>
-<p>});
-</script></p>
+</script>
 
     </main>
   </div>
